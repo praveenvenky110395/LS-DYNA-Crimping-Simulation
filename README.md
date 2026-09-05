@@ -44,7 +44,7 @@ Runtime: 453,086 cycles · 3 h 55 min on 4 cores
   AUTOMATIC_SINGLE_SURFACE could be investigated as a more efficient
   formulation
 
-  ## Reference
+## Reference
 
 This project is a self-directed reproduction of a published
 wire-crimping simulation developed in Abaqus. The published model was used as a
