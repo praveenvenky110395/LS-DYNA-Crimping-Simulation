@@ -1,0 +1,24 @@
+# LS-DYNA binary databases and restart files
+d3plot*
+d3dump*
+d3hsp*
+d3full*
+d3kil*
+runrsf*
+adptmp
+kill_by_pid
+bg_switch
+status.out
+mes[0-9]*
+core.*
+
+# Large ASCII histories (commit only what the README cites)
+ncforc
+elout
+nodout
+disbout
+
+# Post-processing scratch
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,4184 @@
+ Wire Crimp Forming - 19-Strand Copper Conductor - Explicit Quasi-Static 
+                    ls-dyna smp d R16 R16.1_180_d50332d date 07/09/2025
+
+
+ dt of cycle       1 is controlled by dt2ms     
+
+ time...........................   0.00000E+00
+ time step......................   2.70000E-07
+ kinetic energy.................   0.00000E+00
+ internal energy................   2.00000E-20
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   0.00000E+00
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   0.00000E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.00000E-20
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............   0.00000E+00
+ global y velocity..............   0.00000E+00
+ global z velocity..............   0.00000E+00
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28468E-03
+ percentage increase............   0.22936E+05
+
+
+ dt of cycle    3704 is controlled by dt2ms     
+
+ time...........................   9.99810E-04
+ time step......................   2.70000E-07
+ kinetic energy.................   6.39994E-06
+ internal energy................   2.00007E-20
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   9.69261E-26
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   6.39994E-06
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.39994E-06
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -7.12425E-15
+ global y velocity..............  -1.14327E-02
+ global z velocity..............   8.90612E-14
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28468E-03
+ percentage increase............   0.22936E+05
+
+
+ dt of cycle    7408 is controlled by dt2ms     
+
+ time...........................   1.99989E-03
+ time step......................   2.70000E-07
+ kinetic energy.................   8.62798E-05
+ internal energy................   2.00008E-20
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   9.99909E-26
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.62798E-05
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.62798E-05
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............   4.22407E-15
+ global y velocity..............  -4.19775E-02
+ global z velocity..............   2.39402E-13
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28468E-03
+ percentage increase............   0.22936E+05
+
+
+ dt of cycle   11112 is controlled by dt2ms     
+
+ time...........................   2.99997E-03
+ time step......................   2.70000E-07
+ kinetic energy.................   2.25596E-03
+ internal energy................   3.61655E-03
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.68986E-05
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.24412E-03
+ external work..................   8.14222E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.14353E-03
+ total energy / initial energy..   1.00016E+00
+ energy ratio w/o eroded energy.   1.00016E+00
+ global x velocity..............   3.10023E-02
+ global y velocity..............  -1.26561E+00
+ global z velocity..............  -2.48828E-06
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28468E-03
+ percentage increase............   0.22936E+05
+
+
+ dt of cycle   14815 is controlled by dt2ms     
+
+ time...........................   3.99978E-03
+ time step......................   2.70000E-07
+ kinetic energy.................   4.68071E-03
+ internal energy................   3.75297E-02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.83959E-04
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.33427E-02
+ external work..................   6.58209E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.58371E-02
+ total energy / initial energy..   1.00025E+00
+ energy ratio w/o eroded energy.   1.00025E+00
+ global x velocity..............   6.02660E-02
+ global y velocity..............  -8.37837E-01
+ global z velocity..............   6.67379E-04
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28469E-03
+ percentage increase............   0.22937E+05
+
+
+ dt of cycle   18519 is controlled by dt2ms     
+
+ time...........................   4.99986E-03
+ time step......................   2.70000E-07
+ kinetic energy.................   4.37848E-03
+ internal energy................   1.38303E-01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.10107E-03
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   8.33677E-02
+ external work..................   2.27090E-01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.27150E-01
+ total energy / initial energy..   1.00027E+00
+ energy ratio w/o eroded energy.   1.00027E+00
+ global x velocity..............   9.03738E-02
+ global y velocity..............  -1.10239E+00
+ global z velocity..............  -4.40286E-06
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28470E-03
+ percentage increase............   0.22938E+05
+
+
+ dt of cycle   22223 is controlled by dt2ms     
+
+ time...........................   5.99994E-03
+ time step......................   2.70000E-07
+ kinetic energy.................   1.52387E-02
+ internal energy................   3.56055E-01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.90892E-03
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.20048E-01
+ external work..................   5.94120E-01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.94251E-01
+ total energy / initial energy..   1.00022E+00
+ energy ratio w/o eroded energy.   1.00022E+00
+ global x velocity..............   5.51957E-02
+ global y velocity..............   5.55588E-01
+ global z velocity..............  -4.22288E-04
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28471E-03
+ percentage increase............   0.22939E+05
+
+
+ dt of cycle   25926 is controlled by dt2ms     
+
+ time...........................   6.99975E-03
+ time step......................   2.70000E-07
+ kinetic energy.................   9.49424E-03
+ internal energy................   7.16418E-01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.60177E-03
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   4.33940E-01
+ external work..................   1.16527E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.16545E+00
+ total energy / initial energy..   1.00016E+00
+ energy ratio w/o eroded energy.   1.00016E+00
+ global x velocity..............   2.67230E-02
+ global y velocity..............   4.63129E-01
+ global z velocity..............   1.45491E-03
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28472E-03
+ percentage increase............   0.22940E+05
+
+
+ dt of cycle   29630 is controlled by dt2ms     
+
+ time...........................   7.99983E-03
+ time step......................   2.70000E-07
+ kinetic energy.................   7.42982E-03
+ internal energy................   1.20287E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   9.54728E-03
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   7.39767E-01
+ external work..................   1.95936E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.95962E+00
+ total energy / initial energy..   1.00013E+00
+ energy ratio w/o eroded energy.   1.00013E+00
+ global x velocity..............   3.26031E-02
+ global y velocity..............   8.02351E-01
+ global z velocity..............   2.23479E-03
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28474E-03
+ percentage increase............   0.22941E+05
+
+
+ dt of cycle   33334 is controlled by dt2ms     
+
+ time...........................   8.99991E-03
+ time step......................   2.70000E-07
+ kinetic energy.................   1.22777E-02
+ internal energy................   1.79991E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.40804E-02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.12811E+00
+ external work..................   2.95410E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.95438E+00
+ total energy / initial energy..   1.00010E+00
+ energy ratio w/o eroded energy.   1.00010E+00
+ global x velocity..............   5.71514E-02
+ global y velocity..............   1.20051E+00
+ global z velocity..............  -9.14104E-05
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28475E-03
+ percentage increase............   0.22942E+05
+
+
+ dt of cycle   37038 is controlled by dt2ms     
+
+ time...........................   9.99999E-03
+ time step......................   2.70000E-07
+ kinetic energy.................   1.15584E-02
+ internal energy................   2.44272E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.92879E-02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.55381E+00
+ external work..................   4.02708E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.02738E+00
+ total energy / initial energy..   1.00007E+00
+ energy ratio w/o eroded energy.   1.00007E+00
+ global x velocity..............   1.18535E-01
+ global y velocity..............  -1.56508E+00
+ global z velocity..............  -3.76599E-03
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28476E-03
+ percentage increase............   0.22943E+05
+
+
+ dt of cycle   40741 is controlled by dt2ms     
+
+ time...........................   1.09998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   7.45416E-03
+ internal energy................   3.06145E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.46131E-02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.98213E+00
+ external work..................   5.07536E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.07565E+00
+ total energy / initial energy..   1.00006E+00
+ energy ratio w/o eroded energy.   1.00006E+00
+ global x velocity..............   7.77258E-02
+ global y velocity..............   1.09946E-01
+ global z velocity..............   4.87637E-04
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28477E-03
+ percentage increase............   0.22944E+05
+
+
+ dt of cycle   44445 is controlled by dt2ms     
+
+ time...........................   1.19999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   5.26884E-03
+ internal energy................   3.59875E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.95589E-02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.37681E+00
+ external work..................   6.01016E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.01039E+00
+ total energy / initial energy..   1.00004E+00
+ energy ratio w/o eroded energy.   1.00004E+00
+ global x velocity..............   8.24507E-03
+ global y velocity..............   8.93111E-01
+ global z velocity..............   4.83539E-03
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28478E-03
+ percentage increase............   0.22944E+05
+
+
+ dt of cycle   48149 is controlled by dt2ms     
+
+ time...........................   1.30000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   3.75955E-03
+ internal energy................   4.03983E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.35792E-02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.71251E+00
+ external work..................   6.78949E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.78968E+00
+ total energy / initial energy..   1.00003E+00
+ energy ratio w/o eroded energy.   1.00003E+00
+ global x velocity..............   3.81855E-02
+ global y velocity..............  -5.95953E-02
+ global z velocity..............  -1.92138E-03
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28478E-03
+ percentage increase............   0.22945E+05
+
+
+ dt of cycle   51852 is controlled by dt2ms     
+
+ time...........................   1.39998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.62430E-03
+ internal energy................   4.36282E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.67695E-02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.96962E+00
+ external work..................   7.37069E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.37083E+00
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   3.97511E-02
+ global y velocity..............   2.81529E-01
+ global z velocity..............   1.85972E-03
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28479E-03
+ percentage increase............   0.22945E+05
+
+
+ dt of cycle   55556 is controlled by dt2ms     
+
+ time...........................   1.49999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   8.63676E-04
+ internal energy................   4.58815E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.91253E-02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.15322E+00
+ external work..................   7.78127E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.78136E+00
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -1.30922E-01
+ global y velocity..............   5.45365E-01
+ global z velocity..............   3.38604E-03
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28480E-03
+ percentage increase............   0.22946E+05
+
+
+ dt of cycle   59260 is controlled by dt2ms     
+
+ time...........................   1.59999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   8.27530E-04
+ internal energy................   4.71270E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.06069E-02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.25908E+00
+ external work..................   8.01317E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.01322E+00
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   4.62814E-03
+ global y velocity..............   9.48628E-01
+ global z velocity..............  -3.51402E-03
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28480E-03
+ percentage increase............   0.22946E+05
+
+
+ dt of cycle   62963 is controlled by dt2ms     
+
+ time...........................   1.69997E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.61628E-04
+ internal energy................   4.76386E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.11764E-02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.30298E+00
+ external work..................   8.10847E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.10848E+00
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -6.93002E-02
+ global y velocity..............   5.77787E-01
+ global z velocity..............  -2.38799E-03
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..         14529
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28481E-03
+ percentage increase............   0.22947E+05
+
+
+ dt of cycle   66667 is controlled by dt2ms     
+
+ time...........................   1.79998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   3.10049E-04
+ internal energy................   4.77203E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.12699E-02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.31004E+00
+ external work..................   8.12364E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.12365E+00
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -2.49373E-02
+ global y velocity..............   7.22741E-01
+ global z velocity..............   4.70515E-03
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28481E-03
+ percentage increase............   0.22947E+05
+
+
+ dt of cycle   70371 is controlled by dt2ms     
+
+ time...........................   1.89999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.74271E-03
+ internal energy................   4.86577E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.20897E-02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.38970E+00
+ external work..................   8.29916E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.29931E+00
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............  -1.40668E-02
+ global y velocity..............   2.35773E-01
+ global z velocity..............  -1.36188E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28481E-03
+ percentage increase............   0.22947E+05
+
+
+ dt of cycle   74075 is controlled by dt2ms     
+
+ time...........................   2.00000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.78673E-02
+ internal energy................   5.40812E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.79595E-02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.87809E+00
+ external work..................   9.35161E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   9.35204E+00
+ total energy / initial energy..   1.00005E+00
+ energy ratio w/o eroded energy.   1.00005E+00
+ global x velocity..............  -8.81929E-02
+ global y velocity..............   8.96279E-01
+ global z velocity..............   4.91152E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28482E-03
+ percentage increase............   0.22948E+05
+
+
+ dt of cycle   77778 is controlled by dt2ms     
+
+ time...........................   2.09998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   7.51779E-02
+ internal energy................   6.66351E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   6.49350E-02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   5.11002E+00
+ external work..................   1.19127E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.19136E+01
+ total energy / initial energy..   1.00008E+00
+ energy ratio w/o eroded energy.   1.00008E+00
+ global x velocity..............   5.25280E-01
+ global y velocity..............   5.06741E+00
+ global z velocity..............   3.06324E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28486E-03
+ percentage increase............   0.22951E+05
+
+
+ dt of cycle   81482 is controlled by dt2ms     
+
+ time...........................   2.19999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.23632E-01
+ internal energy................   8.45181E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   9.54372E-02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   7.19602E+00
+ external work..................   1.58659E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.58669E+01
+ total energy / initial energy..   1.00007E+00
+ energy ratio w/o eroded energy.   1.00007E+00
+ global x velocity..............  -2.09334E-01
+ global y velocity..............   1.03590E+01
+ global z velocity..............   3.14468E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28492E-03
+ percentage increase............   0.22956E+05
+
+
+ dt of cycle   85186 is controlled by dt2ms     
+
+ time...........................   2.30000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.68015E-01
+ internal energy................   9.76648E+00
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.19725E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   9.78431E+00
+ external work..................   1.98375E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.98385E+01
+ total energy / initial energy..   1.00005E+00
+ energy ratio w/o eroded energy.   1.00005E+00
+ global x velocity..............  -1.12742E+00
+ global y velocity..............   8.96347E+00
+ global z velocity..............   3.11940E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28496E-03
+ percentage increase............   0.22959E+05
+
+
+ dt of cycle   88889 is controlled by dt2ms     
+
+ time...........................   2.39998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   2.17589E-01
+ internal energy................   1.13042E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.51362E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.29168E+01
+ external work..................   2.45883E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.45899E+01
+ total energy / initial energy..   1.00006E+00
+ energy ratio w/o eroded energy.   1.00006E+00
+ global x velocity..............   2.13062E-01
+ global y velocity..............   1.10375E+01
+ global z velocity..............   7.47906E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..         14529
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28502E-03
+ percentage increase............   0.22964E+05
+
+
+ dt of cycle   92593 is controlled by dt2ms     
+
+ time...........................   2.49998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.99033E-01
+ internal energy................   1.28927E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.91940E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.60642E+01
+ external work..................   2.93470E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.93479E+01
+ total energy / initial energy..   1.00003E+00
+ energy ratio w/o eroded energy.   1.00003E+00
+ global x velocity..............   3.09184E-02
+ global y velocity..............   1.07362E+01
+ global z velocity..............   3.94472E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28507E-03
+ percentage increase............   0.22968E+05
+
+
+ dt of cycle   96297 is controlled by dt2ms     
+
+ time...........................   2.59999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.65306E-01
+ internal energy................   1.37865E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.17643E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.89562E+01
+ external work..................   3.31245E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.31257E+01
+ total energy / initial energy..   1.00003E+00
+ energy ratio w/o eroded energy.   1.00003E+00
+ global x velocity..............   7.10019E-01
+ global y velocity..............   8.13187E+00
+ global z velocity..............   5.13409E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28510E-03
+ percentage increase............   0.22970E+05
+
+
+ dt of cycle  100000 is controlled by dt2ms     
+
+ time...........................   2.69997E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.12018E-01
+ internal energy................   1.45595E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.40437E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.14095E+01
+ external work..................   3.63205E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.63214E+01
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   3.07232E-01
+ global y velocity..............   7.49293E+00
+ global z velocity..............   4.88069E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28512E-03
+ percentage increase............   0.22972E+05
+
+
+ dt of cycle  103704 is controlled by dt2ms     
+
+ time...........................   2.79998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   5.81218E-02
+ internal energy................   1.51260E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.59378E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.32251E+01
+ external work..................   3.86680E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.86686E+01
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   1.82806E-01
+ global y velocity..............   6.47867E+00
+ global z velocity..............   1.57002E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28515E-03
+ percentage increase............   0.22974E+05
+
+
+ dt of cycle  107408 is controlled by dt2ms     
+
+ time...........................   2.89999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.61756E-01
+ internal energy................   1.70810E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.79393E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.47790E+01
+ external work..................   4.22994E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.23011E+01
+ total energy / initial energy..   1.00004E+00
+ energy ratio w/o eroded energy.   1.00004E+00
+ global x velocity..............   2.35963E-01
+ global y velocity..............   3.72975E+00
+ global z velocity..............   2.14476E+00
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28519E-03
+ percentage increase............   0.22978E+05
+
+
+ dt of cycle  111112 is controlled by dt2ms     
+
+ time...........................   3.00000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   2.85002E-02
+ internal energy................   2.03320E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.44112E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.62176E+01
+ external work..................   4.69215E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.69223E+01
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............  -6.65697E-01
+ global y velocity..............  -7.74416E-01
+ global z velocity..............   6.27590E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28526E-03
+ percentage increase............   0.22983E+05
+
+
+ dt of cycle  114815 is controlled by dt2ms     
+
+ time...........................   3.09998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.80777E-02
+ internal energy................   2.08425E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.53295E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.64628E+01
+ external work..................   4.76765E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.76766E+01
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -8.13607E-01
+ global y velocity..............  -3.16994E+00
+ global z velocity..............  -3.71746E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28527E-03
+ percentage increase............   0.22984E+05
+
+
+ dt of cycle  118519 is controlled by dt2ms     
+
+ time...........................   3.19999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   2.07932E-02
+ internal energy................   2.08420E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.52981E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.64693E+01
+ external work..................   4.76849E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.76850E+01
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -2.65016E-01
+ global y velocity..............  -5.40637E+00
+ global z velocity..............  -2.49027E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28527E-03
+ percentage increase............   0.22984E+05
+
+
+ dt of cycle  122223 is controlled by dt2ms     
+
+ time...........................   3.29999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   2.04108E-02
+ internal energy................   2.08561E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.54041E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.64991E+01
+ external work..................   4.77295E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.77297E+01
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -3.93081E-01
+ global y velocity..............  -4.88373E+00
+ global z velocity..............   4.67829E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28527E-03
+ percentage increase............   0.22984E+05
+
+
+ dt of cycle  125926 is controlled by dt2ms     
+
+ time...........................   3.39997E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.66534E-02
+ internal energy................   2.09328E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.54398E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.65398E+01
+ external work..................   4.78435E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.78437E+01
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............   1.59003E-01
+ global y velocity..............  -4.06949E+00
+ global z velocity..............  -1.82442E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28528E-03
+ percentage increase............   0.22984E+05
+
+
+ dt of cycle  129630 is controlled by dt2ms     
+
+ time...........................   3.49998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   7.13322E-03
+ internal energy................   2.10883E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.56584E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.66031E+01
+ external work..................   4.80550E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.80552E+01
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............   5.41413E-01
+ global y velocity..............  -1.55187E+00
+ global z velocity..............  -1.11510E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28528E-03
+ percentage increase............   0.22985E+05
+
+
+ dt of cycle  133334 is controlled by dt2ms     
+
+ time...........................   3.59999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.45153E-03
+ internal energy................   2.12978E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.61995E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.67216E+01
+ external work..................   4.83857E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.83859E+01
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............   7.20976E-02
+ global y velocity..............  -5.10633E-01
+ global z velocity..............   5.34451E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..         14529
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28528E-03
+ percentage increase............   0.22985E+05
+
+
+ dt of cycle  137038 is controlled by dt2ms     
+
+ time...........................   3.70000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   7.72512E-03
+ internal energy................   2.16326E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.72110E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.68843E+01
+ external work..................   4.88965E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.88967E+01
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............   1.08212E-02
+ global y velocity..............   1.92882E+00
+ global z velocity..............  -5.52086E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28529E-03
+ percentage increase............   0.22985E+05
+
+
+ dt of cycle  140741 is controlled by dt2ms     
+
+ time...........................   3.79998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   7.71521E-03
+ internal energy................   2.21105E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.83298E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.71118E+01
+ external work..................   4.96131E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.96133E+01
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -1.79459E-01
+ global y velocity..............   2.20503E+00
+ global z velocity..............   1.13471E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28529E-03
+ percentage increase............   0.22986E+05
+
+
+ dt of cycle  144445 is controlled by dt2ms     
+
+ time...........................   3.89999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.06832E-02
+ internal energy................   2.27442E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.97008E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.74290E+01
+ external work..................   5.05806E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.05810E+01
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -6.60730E-01
+ global y velocity..............   2.85674E+00
+ global z velocity..............   1.70624E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28530E-03
+ percentage increase............   0.22986E+05
+
+
+ dt of cycle  148149 is controlled by dt2ms     
+
+ time...........................   4.00000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   6.27908E-03
+ internal energy................   2.36162E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.24461E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.78538E+01
+ external work..................   5.19003E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.19007E+01
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   1.91966E-01
+ global y velocity..............   3.34908E-01
+ global z velocity..............   9.11588E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28531E-03
+ percentage increase............   0.22987E+05
+
+
+ dt of cycle  151852 is controlled by dt2ms     
+
+ time...........................   4.09998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   8.03833E-03
+ internal energy................   2.48300E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.53882E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.83777E+01
+ external work..................   5.36691E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.36696E+01
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   3.20878E-01
+ global y velocity..............  -8.22479E-01
+ global z velocity..............   4.67235E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28532E-03
+ percentage increase............   0.22988E+05
+
+
+ dt of cycle  155556 is controlled by dt2ms     
+
+ time...........................   4.19998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.59572E-02
+ internal energy................   2.64495E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.07507E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.90890E+01
+ external work..................   5.60614E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.60620E+01
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   2.04765E-01
+ global y velocity..............  -4.36999E+00
+ global z velocity..............  -1.58143E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28533E-03
+ percentage increase............   0.22989E+05
+
+
+ dt of cycle  159260 is controlled by dt2ms     
+
+ time...........................   4.29999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   3.09032E-02
+ internal energy................   2.86754E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.76499E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.99217E+01
+ external work..................   5.92038E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.92046E+01
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -5.28433E-01
+ global y velocity..............  -6.77883E+00
+ global z velocity..............  -2.78175E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28535E-03
+ percentage increase............   0.22990E+05
+
+
+ dt of cycle  162963 is controlled by dt2ms     
+
+ time...........................   4.39997E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.81108E-02
+ internal energy................   3.17099E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   6.56005E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.08761E+01
+ external work..................   6.32891E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.32901E+01
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   3.70139E-01
+ global y velocity..............  -1.00965E+01
+ global z velocity..............  -2.86392E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28538E-03
+ percentage increase............   0.22993E+05
+
+
+ dt of cycle  166667 is controlled by dt2ms     
+
+ time...........................   4.49998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   7.55883E-02
+ internal energy................   3.60028E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   7.63166E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.13474E+01
+ external work..................   6.81878E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.81889E+01
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............  -3.63094E-01
+ global y velocity..............  -1.28445E+01
+ global z velocity..............  -1.90035E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28542E-03
+ percentage increase............   0.22996E+05
+
+
+ dt of cycle  170371 is controlled by dt2ms     
+
+ time...........................   4.59999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   8.98723E-02
+ internal energy................   4.07103E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   9.24804E-01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.20012E+01
+ external work..................   7.37249E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.37261E+01
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   1.24997E-01
+ global y velocity..............  -1.30424E+01
+ global z velocity..............  -1.56112E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28546E-03
+ percentage increase............   0.22999E+05
+
+
+ dt of cycle  174075 is controlled by dt2ms     
+
+ time...........................   4.70000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   8.73330E-02
+ internal energy................   4.57744E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.15658E+00
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.27098E+01
+ external work..................   7.97268E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.97281E+01
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   7.15032E-01
+ global y velocity..............  -1.31944E+01
+ global z velocity..............  -5.32674E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28550E-03
+ percentage increase............   0.23003E+05
+
+
+ dt of cycle  177778 is controlled by dt2ms     
+
+ time...........................   4.79998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   6.55483E-02
+ internal energy................   5.13176E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.44382E+00
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.36539E+01
+ external work..................   8.64794E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.64808E+01
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   2.20232E-01
+ global y velocity..............  -1.12106E+01
+ global z velocity..............  -2.63570E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28556E-03
+ percentage increase............   0.23007E+05
+
+
+ dt of cycle  181482 is controlled by dt2ms     
+
+ time...........................   4.89999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   3.57401E-02
+ internal energy................   5.73674E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.75882E+00
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.51238E+01
+ external work..................   9.42843E+01
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   9.42858E+01
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............  -9.81868E-02
+ global y velocity..............  -6.96407E+00
+ global z velocity..............   3.48565E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28562E-03
+ percentage increase............   0.23012E+05
+
+
+ dt of cycle  185186 is controlled by dt2ms     
+
+ time...........................   4.99999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   3.35997E-02
+ internal energy................   6.41596E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.10241E+00
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.68454E+01
+ external work..................   1.03140E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.03141E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -5.14853E-01
+ global y velocity..............  -1.68680E+00
+ global z velocity..............  -2.73608E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28570E-03
+ percentage increase............   0.23018E+05
+
+
+ dt of cycle  188889 is controlled by dt2ms     
+
+ time...........................   5.09998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.38680E-02
+ internal energy................   7.18850E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.46828E+00
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.88448E+01
+ external work..................   1.13240E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.13242E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............  -3.24958E-01
+ global y velocity..............  -1.01399E+00
+ global z velocity..............  -8.69951E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28577E-03
+ percentage increase............   0.23024E+05
+
+
+ dt of cycle  192593 is controlled by dt2ms     
+
+ time...........................   5.19998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.80133E-02
+ internal energy................   8.16177E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.98702E+00
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   4.08648E+01
+ external work..................   1.25515E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.25518E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............  -5.12280E-01
+ global y velocity..............  -1.75923E+00
+ global z velocity..............  -8.75744E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28586E-03
+ percentage increase............   0.23032E+05
+
+
+ dt of cycle  196297 is controlled by dt2ms     
+
+ time...........................   5.29999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   6.00130E-02
+ internal energy................   9.29357E+01
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.75582E+00
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   4.30496E+01
+ external work..................   1.39798E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.39801E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............  -8.26276E-02
+ global y velocity..............   2.53696E-01
+ global z velocity..............   2.80613E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28597E-03
+ percentage increase............   0.23040E+05
+
+
+ dt of cycle  200001 is controlled by dt2ms     
+
+ time...........................   5.40000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.92930E-02
+ internal energy................   1.06035E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.72137E+00
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   4.55796E+01
+ external work..................   1.56382E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.56385E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............  -1.11060E-01
+ global y velocity..............   1.19992E+00
+ global z velocity..............   1.76710E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28608E-03
+ percentage increase............   0.23049E+05
+
+
+ dt of cycle  203704 is controlled by dt2ms     
+
+ time...........................   5.49998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.59360E-02
+ internal energy................   1.21839E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.91516E+00
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   4.84449E+01
+ external work..................   1.76240E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.76245E+02
+ total energy / initial energy..   1.00003E+00
+ energy ratio w/o eroded energy.   1.00003E+00
+ global x velocity..............   1.25830E-01
+ global y velocity..............   6.16282E-01
+ global z velocity..............  -2.47782E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28621E-03
+ percentage increase............   0.23059E+05
+
+
+ dt of cycle  207408 is controlled by dt2ms     
+
+ time...........................   5.59999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   3.04707E-02
+ internal energy................   1.39123E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   6.91345E+00
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   5.31076E+01
+ external work..................   1.99169E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.99175E+02
+ total energy / initial energy..   1.00003E+00
+ energy ratio w/o eroded energy.   1.00003E+00
+ global x velocity..............  -1.26171E-01
+ global y velocity..............   2.81093E+00
+ global z velocity..............  -2.51452E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28649E-03
+ percentage increase............   0.23082E+05
+
+
+ dt of cycle  211112 is controlled by dt2ms     
+
+ time...........................   5.70000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   2.74866E-02
+ internal energy................   1.55380E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   7.80298E+00
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   5.99546E+01
+ external work..................   2.23159E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.23165E+02
+ total energy / initial energy..   1.00003E+00
+ energy ratio w/o eroded energy.   1.00003E+00
+ global x velocity..............   3.36817E-01
+ global y velocity..............   4.43396E+00
+ global z velocity..............  -3.04629E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28679E-03
+ percentage increase............   0.23107E+05
+
+
+ dt of cycle  214815 is controlled by dt2ms     
+
+ time...........................   5.79998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   3.06480E-02
+ internal energy................   1.70145E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   9.05842E+00
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   6.71560E+01
+ external work..................   2.46384E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.46390E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   1.00234E+00
+ global y velocity..............   1.80144E+00
+ global z velocity..............  -1.10491E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28705E-03
+ percentage increase............   0.23127E+05
+
+
+ dt of cycle  218519 is controlled by dt2ms     
+
+ time...........................   5.89999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.63963E-02
+ internal energy................   1.83386E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.06511E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   7.40918E+01
+ external work..................   2.68169E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.68175E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   6.65527E-01
+ global y velocity..............  -1.73254E+00
+ global z velocity..............   1.97306E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28726E-03
+ percentage increase............   0.23144E+05
+
+
+ dt of cycle  222223 is controlled by dt2ms     
+
+ time...........................   5.99999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.31065E-02
+ internal energy................   1.95678E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.23815E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   8.06457E+01
+ external work..................   2.88743E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.88748E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   8.74528E-01
+ global y velocity..............  -1.05564E+00
+ global z velocity..............  -7.03888E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28744E-03
+ percentage increase............   0.23159E+05
+
+
+ dt of cycle  225926 is controlled by dt2ms     
+
+ time...........................   6.09997E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   5.29970E-02
+ internal energy................   2.07043E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.41788E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   8.70635E+01
+ external work..................   3.08333E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.08338E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   3.47936E-01
+ global y velocity..............  -2.90349E+00
+ global z velocity..............   3.40328E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28759E-03
+ percentage increase............   0.23171E+05
+
+
+ dt of cycle  229630 is controlled by dt2ms     
+
+ time...........................   6.19998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.43863E-02
+ internal energy................   2.17525E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.60392E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   9.35883E+01
+ external work..................   3.27191E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.27196E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   6.70882E-03
+ global y velocity..............  -5.54630E+00
+ global z velocity..............   1.29313E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28772E-03
+ percentage increase............   0.23182E+05
+
+
+ dt of cycle  233334 is controlled by dt2ms     
+
+ time...........................   6.29999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   3.23307E-02
+ internal energy................   2.24895E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.68195E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   9.85766E+01
+ external work..................   3.40318E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.40323E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -2.37852E-02
+ global y velocity..............  -5.97194E+00
+ global z velocity..............  -2.55116E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28783E-03
+ percentage increase............   0.23190E+05
+
+
+ dt of cycle  237038 is controlled by dt2ms     
+
+ time...........................   6.40000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   3.13082E-02
+ internal energy................   2.33792E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.86392E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.02647E+02
+ external work..................   3.55104E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.55109E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   6.07485E-01
+ global y velocity..............  -6.16441E+00
+ global z velocity..............   1.56262E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28792E-03
+ percentage increase............   0.23197E+05
+
+
+ dt of cycle  240741 is controlled by dt2ms     
+
+ time...........................   6.49998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   3.34851E-02
+ internal energy................   2.42746E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.09453E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.06929E+02
+ external work..................   3.70648E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.70654E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   3.81605E-01
+ global y velocity..............  -6.85726E+00
+ global z velocity..............   1.08099E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28804E-03
+ percentage increase............   0.23207E+05
+
+
+ dt of cycle  244445 is controlled by dt2ms     
+
+ time...........................   6.59999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   3.99520E-02
+ internal energy................   2.52988E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.30513E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.11965E+02
+ external work..................   3.88038E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.88044E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............  -2.86299E-01
+ global y velocity..............  -7.89935E+00
+ global z velocity..............  -3.16956E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28811E-03
+ percentage increase............   0.23213E+05
+
+
+ dt of cycle  248149 is controlled by dt2ms     
+
+ time...........................   6.70000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.37026E-02
+ internal energy................   2.63723E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.56945E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.18360E+02
+ external work..................   4.07814E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.07821E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............  -4.04347E-01
+ global y velocity..............  -6.72359E+00
+ global z velocity..............   1.26622E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28822E-03
+ percentage increase............   0.23222E+05
+
+
+ dt of cycle  251852 is controlled by dt2ms     
+
+ time...........................   6.79998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.53911E-02
+ internal energy................   2.74242E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   2.85552E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.24506E+02
+ external work..................   4.27342E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.27349E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............  -1.39696E-01
+ global y velocity..............  -6.73236E+00
+ global z velocity..............   4.06392E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28836E-03
+ percentage increase............   0.23233E+05
+
+
+ dt of cycle  255556 is controlled by dt2ms     
+
+ time...........................   6.89998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.92269E-02
+ internal energy................   2.85156E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.08896E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.31242E+02
+ external work..................   4.47330E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.47337E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............  -9.26960E-02
+ global y velocity..............  -5.12688E+00
+ global z velocity..............   1.39565E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28853E-03
+ percentage increase............   0.23247E+05
+
+
+ dt of cycle  259260 is controlled by dt2ms     
+
+ time...........................   6.99999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.51511E-02
+ internal energy................   2.94649E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.31348E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.36965E+02
+ external work..................   4.64788E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.64794E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -3.53939E-01
+ global y velocity..............  -3.26994E+00
+ global z velocity..............   2.70235E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28869E-03
+ percentage increase............   0.23259E+05
+
+
+ dt of cycle  262963 is controlled by dt2ms     
+
+ time...........................   7.09997E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.80819E-02
+ internal energy................   3.03144E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.50572E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.41633E+02
+ external work..................   4.79878E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.79883E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -1.27866E-02
+ global y velocity..............  -1.92708E+00
+ global z velocity..............   2.24352E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28881E-03
+ percentage increase............   0.23269E+05
+
+
+ dt of cycle  266667 is controlled by dt2ms     
+
+ time...........................   7.19998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   3.62859E-01
+ internal energy................   3.11409E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.64727E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.46435E+02
+ external work..................   4.94674E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.94680E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   1.90154E+00
+ global y velocity..............  -2.83538E+01
+ global z velocity..............   5.05937E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..         14529
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28897E-03
+ percentage increase............   0.23282E+05
+
+
+ dt of cycle  270371 is controlled by dt2ms     
+
+ time...........................   7.29999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   5.36298E-01
+ internal energy................   3.19490E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.80058E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.51256E+02
+ external work..................   5.09282E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.09287E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   2.70510E+00
+ global y velocity..............  -1.99487E+01
+ global z velocity..............   7.50884E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28919E-03
+ percentage increase............   0.23300E+05
+
+
+ dt of cycle  274075 is controlled by dt2ms     
+
+ time...........................   7.40000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   3.36180E-01
+ internal energy................   3.27515E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   3.95409E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.55737E+02
+ external work..................   5.23123E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.23129E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   1.69778E+00
+ global y velocity..............  -1.71064E+01
+ global z velocity..............   8.64220E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28939E-03
+ percentage increase............   0.23316E+05
+
+
+ dt of cycle  277778 is controlled by dt2ms     
+
+ time...........................   7.49998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   2.25762E-01
+ internal energy................   3.34965E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.10029E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.60012E+02
+ external work..................   5.36200E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.36206E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -2.11435E+00
+ global y velocity..............  -5.19340E+00
+ global z velocity..............  -2.20588E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28956E-03
+ percentage increase............   0.23329E+05
+
+
+ dt of cycle  281482 is controlled by dt2ms     
+
+ time...........................   7.59999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.81060E-01
+ internal energy................   3.41966E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.25043E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.63995E+02
+ external work..................   5.48641E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.48647E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -2.48548E+00
+ global y velocity..............   1.98719E+00
+ global z velocity..............   5.44196E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28970E-03
+ percentage increase............   0.23340E+05
+
+
+ dt of cycle  285186 is controlled by dt2ms     
+
+ time...........................   7.69999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.31800E-01
+ internal energy................   3.48640E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.40270E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.67636E+02
+ external work..................   5.60429E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.60435E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -1.56529E+00
+ global y velocity..............   2.93915E+00
+ global z velocity..............   6.63151E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28980E-03
+ percentage increase............   0.23349E+05
+
+
+ dt of cycle  288889 is controlled by dt2ms     
+
+ time...........................   7.79998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   8.82149E-02
+ internal energy................   3.54794E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.54555E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.71111E+02
+ external work..................   5.71444E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.71449E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -8.24518E-01
+ global y velocity..............  -1.07865E+00
+ global z velocity..............   3.46276E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28990E-03
+ percentage increase............   0.23357E+05
+
+
+ dt of cycle  292593 is controlled by dt2ms     
+
+ time...........................   7.89998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   6.61020E-02
+ internal energy................   3.60151E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.67102E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.74052E+02
+ external work..................   5.80975E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.80980E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   6.71735E-01
+ global y velocity..............  -2.50697E+00
+ global z velocity..............   5.07881E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.28998E-03
+ percentage increase............   0.23363E+05
+
+
+ dt of cycle  296297 is controlled by dt2ms     
+
+ time...........................   7.99999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   7.03094E-02
+ internal energy................   3.64690E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.76949E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.76579E+02
+ external work..................   5.89030E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.89034E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -3.29144E-01
+ global y velocity..............  -5.98701E+00
+ global z velocity..............   4.03125E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29005E-03
+ percentage increase............   0.23369E+05
+
+
+ dt of cycle  300001 is controlled by dt2ms     
+
+ time...........................   8.10000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   5.61724E-02
+ internal energy................   3.68542E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.83963E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.78699E+02
+ external work..................   5.95690E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.95694E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   2.55522E-01
+ global y velocity..............  -2.19749E+00
+ global z velocity..............   4.91037E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29011E-03
+ percentage increase............   0.23374E+05
+
+
+ dt of cycle  303704 is controlled by dt2ms     
+
+ time...........................   8.19998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   4.20071E-02
+ internal energy................   3.71707E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.89267E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.80486E+02
+ external work..................   6.01158E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.01161E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -9.11651E-01
+ global y velocity..............  -3.74709E+00
+ global z velocity..............   8.85136E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29016E-03
+ percentage increase............   0.23378E+05
+
+
+ dt of cycle  307408 is controlled by dt2ms     
+
+ time...........................   8.29999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.83978E-02
+ internal energy................   3.74327E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.93128E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.82004E+02
+ external work..................   6.05659E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.05662E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   3.55601E-01
+ global y velocity..............  -2.01958E+00
+ global z velocity..............   2.19636E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29019E-03
+ percentage increase............   0.23381E+05
+
+
+ dt of cycle  311112 is controlled by dt2ms     
+
+ time...........................   8.40000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   9.39163E-03
+ internal energy................   3.76436E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.96017E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.83234E+02
+ external work..................   6.09278E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.09281E+02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -1.86547E-01
+ global y velocity..............  -1.58534E+00
+ global z velocity..............   1.54540E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..         14529
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29022E-03
+ percentage increase............   0.23383E+05
+
+
+ dt of cycle  314815 is controlled by dt2ms     
+
+ time...........................   8.49998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   6.94475E-03
+ internal energy................   3.78061E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.98216E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.84204E+02
+ external work..................   6.12091E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.12094E+02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -7.88292E-02
+ global y velocity..............  -1.15183E+00
+ global z velocity..............   1.84947E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29025E-03
+ percentage increase............   0.23385E+05
+
+
+ dt of cycle  318519 is controlled by dt2ms     
+
+ time...........................   8.59999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   3.76226E-03
+ internal energy................   3.79266E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   4.99858E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.84968E+02
+ external work..................   6.14221E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.14223E+02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -5.19436E-02
+ global y velocity..............  -1.12781E+00
+ global z velocity..............  -2.74380E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29026E-03
+ percentage increase............   0.23386E+05
+
+
+ dt of cycle  322223 is controlled by dt2ms     
+
+ time...........................   8.69999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   2.70237E-03
+ internal energy................   3.80138E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.01068E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.85508E+02
+ external work..................   6.15753E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.15755E+02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............   5.22334E-02
+ global y velocity..............  -6.90922E-01
+ global z velocity..............   2.25666E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29028E-03
+ percentage increase............   0.23387E+05
+
+
+ dt of cycle  325926 is controlled by dt2ms     
+
+ time...........................   8.79997E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   2.60996E-03
+ internal energy................   3.80682E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.01828E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.85849E+02
+ external work..................   6.16714E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.16716E+02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -1.53770E-01
+ global y velocity..............  -3.74781E-01
+ global z velocity..............  -2.03325E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29028E-03
+ percentage increase............   0.23388E+05
+
+
+ dt of cycle  329630 is controlled by dt2ms     
+
+ time...........................   8.89998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.73438E-03
+ internal energy................   3.80963E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.02221E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.86026E+02
+ external work..................   6.17212E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.17213E+02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -1.07385E-02
+ global y velocity..............  -1.49709E-01
+ global z velocity..............   2.21585E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29029E-03
+ percentage increase............   0.23388E+05
+
+
+ dt of cycle  333334 is controlled by dt2ms     
+
+ time...........................   8.99999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.95916E-03
+ internal energy................   3.81052E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.02371E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.86097E+02
+ external work..................   6.17386E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.17388E+02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -6.31251E-02
+ global y velocity..............   1.92140E-01
+ global z velocity..............   5.28355E-03
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29029E-03
+ percentage increase............   0.23389E+05
+
+
+ dt of cycle  337038 is controlled by dt2ms     
+
+ time...........................   9.10000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.52321E-03
+ internal energy................   3.81063E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.02385E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.86105E+02
+ external work..................   6.17406E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.17408E+02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -5.89632E-02
+ global y velocity..............  -8.78384E-04
+ global z velocity..............  -1.84270E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29029E-03
+ percentage increase............   0.23389E+05
+
+
+ dt of cycle  340741 is controlled by dt2ms     
+
+ time...........................   9.19998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.21939E-03
+ internal energy................   3.81137E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.02489E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.86163E+02
+ external work..................   6.17549E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.17551E+02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............   1.11040E-02
+ global y velocity..............  -2.45298E-01
+ global z velocity..............  -8.00942E-04
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29029E-03
+ percentage increase............   0.23389E+05
+
+
+ dt of cycle  344445 is controlled by dt2ms     
+
+ time...........................   9.29999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   2.48779E-03
+ internal energy................   3.81550E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.03059E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.86426E+02
+ external work..................   6.18282E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.18284E+02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............   2.63516E-02
+ global y velocity..............  -6.15319E-01
+ global z velocity..............   4.87643E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29030E-03
+ percentage increase............   0.23389E+05
+
+
+ dt of cycle  348149 is controlled by dt2ms     
+
+ time...........................   9.40000E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.96215E-02
+ internal energy................   3.82464E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.04198E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.87058E+02
+ external work..................   6.19959E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.19962E+02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............   9.24471E-02
+ global y velocity..............   9.12808E-02
+ global z velocity..............   1.72434E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29034E-03
+ percentage increase............   0.23392E+05
+
+
+ dt of cycle  351852 is controlled by dt2ms     
+
+ time...........................   9.49998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.93778E-02
+ internal energy................   3.84058E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.06067E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.88129E+02
+ external work..................   6.22809E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.22812E+02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -5.19579E-01
+ global y velocity..............  -9.28312E-01
+ global z velocity..............   2.81645E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29037E-03
+ percentage increase............   0.23395E+05
+
+
+ dt of cycle  355556 is controlled by dt2ms     
+
+ time...........................   9.59998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   1.42403E-02
+ internal energy................   3.86585E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.09303E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.89725E+02
+ external work..................   6.27251E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.27254E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -5.07729E-02
+ global y velocity..............  -2.27451E+00
+ global z velocity..............   2.63802E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29040E-03
+ percentage increase............   0.23398E+05
+
+
+ dt of cycle  359260 is controlled by dt2ms     
+
+ time...........................   9.69999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   2.22933E-02
+ internal energy................   3.90354E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.14265E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.92002E+02
+ external work..................   6.33801E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.33805E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   2.66392E-02
+ global y velocity..............  -3.36869E+00
+ global z velocity..............   2.07809E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29046E-03
+ percentage increase............   0.23402E+05
+
+
+ dt of cycle  362963 is controlled by dt2ms     
+
+ time...........................   9.79997E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   2.77201E-02
+ internal energy................   3.95707E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.22440E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.94927E+02
+ external work..................   6.42901E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.42906E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   1.19365E+00
+ global y velocity..............  -7.11666E+00
+ global z velocity..............  -9.47185E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29052E-03
+ percentage increase............   0.23407E+05
+
+
+ dt of cycle  366667 is controlled by dt2ms     
+
+ time...........................   9.89998E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   2.53017E-02
+ internal energy................   4.04419E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.33748E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   1.99267E+02
+ external work..................   6.57080E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.57086E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -3.24336E-01
+ global y velocity..............  -7.36492E+00
+ global z velocity..............   2.09377E-02
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29064E-03
+ percentage increase............   0.23416E+05
+
+
+ dt of cycle  370371 is controlled by dt2ms     
+
+ time...........................   9.99999E-02
+ time step......................   2.70000E-07
+ kinetic energy.................   3.18501E-02
+ internal energy................   4.20881E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.47513E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.04024E+02
+ external work..................   6.79681E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.79689E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -7.51803E-01
+ global y velocity..............  -9.89496E+00
+ global z velocity..............  -1.55119E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29095E-03
+ percentage increase............   0.23441E+05
+
+
+ dt of cycle  374075 is controlled by dt2ms     
+
+ time...........................   1.01000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   3.41897E-02
+ internal energy................   4.46178E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.66633E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.09618E+02
+ external work..................   7.12483E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.12494E+02
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............  -3.58677E-01
+ global y velocity..............  -1.00750E+01
+ global z velocity..............  -3.65550E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29159E-03
+ percentage increase............   0.23493E+05
+
+
+ dt of cycle  377778 is controlled by dt2ms     
+
+ time...........................   1.02000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   3.58745E-02
+ internal energy................   4.80880E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   5.97885E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.17816E+02
+ external work..................   7.58506E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.58520E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   1.60699E-01
+ global y velocity..............  -1.04594E+01
+ global z velocity..............  -4.12387E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29270E-03
+ percentage increase............   0.23582E+05
+
+
+ dt of cycle  381482 is controlled by dt2ms     
+
+ time...........................   1.03000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   3.77330E-02
+ internal energy................   5.27325E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   6.40130E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.29505E+02
+ external work..................   8.20863E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.20881E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   6.60484E-01
+ global y velocity..............  -1.05697E+01
+ global z velocity..............  -8.12355E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29438E-03
+ percentage increase............   0.23718E+05
+
+
+ dt of cycle  385186 is controlled by dt2ms     
+
+ time...........................   1.04000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   5.27792E-02
+ internal energy................   5.88793E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   6.95140E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.43300E+02
+ external work..................   9.01637E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   9.01660E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   2.89253E-01
+ global y velocity..............  -1.13218E+01
+ global z velocity..............  -1.66328E+00
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29674E-03
+ percentage increase............   0.23908E+05
+
+
+ dt of cycle  388889 is controlled by dt2ms     
+
+ time...........................   1.05000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   9.76385E-02
+ internal energy................   6.59343E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   7.65450E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.62012E+02
+ external work..................   9.97976E+02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   9.97998E+02
+ total energy / initial energy..   1.00002E+00
+ energy ratio w/o eroded energy.   1.00002E+00
+ global x velocity..............   1.46840E+00
+ global y velocity..............  -1.03792E+01
+ global z velocity..............  -2.05053E+00
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.29948E-03
+ percentage increase............   0.24129E+05
+
+
+ dt of cycle  392593 is controlled by dt2ms     
+
+ time...........................   1.06000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   7.61103E-02
+ internal energy................   7.24337E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   8.35810E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   2.93781E+02
+ external work..................   1.10176E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.10177E+03
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   7.20267E-01
+ global y velocity..............  -1.08446E+01
+ global z velocity..............  -1.24060E+00
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.30148E-03
+ percentage increase............   0.24290E+05
+
+
+ dt of cycle  396297 is controlled by dt2ms     
+
+ time...........................   1.07000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   1.00335E-01
+ internal energy................   7.95234E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   9.26030E+01
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.25342E+02
+ external work..................   1.21327E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.21328E+03
+ total energy / initial energy..   1.00001E+00
+ energy ratio w/o eroded energy.   1.00001E+00
+ global x velocity..............   1.04838E+00
+ global y velocity..............  -1.09140E+01
+ global z velocity..............  -2.45380E+00
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..         14529
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.30362E-03
+ percentage increase............   0.24462E+05
+
+
+ dt of cycle  400001 is controlled by dt2ms     
+
+ time...........................   1.08000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   6.04943E-02
+ internal energy................   8.75758E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.03103E+02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.55577E+02
+ external work..................   1.33449E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.33450E+03
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............   2.69240E-01
+ global y velocity..............  -6.90294E+00
+ global z velocity..............  -2.78783E+00
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.30678E-03
+ percentage increase............   0.24717E+05
+
+
+ dt of cycle  403704 is controlled by dt2ms     
+
+ time...........................   1.09000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   2.87931E-01
+ internal energy................   9.65797E+02
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.15721E+02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   3.80898E+02
+ external work..................   1.46271E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.46270E+03
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -4.43597E-01
+ global y velocity..............  -7.24323E+00
+ global z velocity..............  -3.59588E+00
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.31009E-03
+ percentage increase............   0.24983E+05
+
+
+ dt of cycle  407408 is controlled by dt2ms     
+
+ time...........................   1.10000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   1.37892E-01
+ internal energy................   1.05874E+03
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.28318E+02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   4.02403E+02
+ external work..................   1.58972E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.58960E+03
+ total energy / initial energy..   9.99925E-01
+ energy ratio w/o eroded energy.   9.99925E-01
+ global x velocity..............  -1.94665E-01
+ global y velocity..............  -9.49912E+00
+ global z velocity..............  -3.39448E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.31389E-03
+ percentage increase............   0.25290E+05
+
+
+ dt of cycle  411112 is controlled by dt2ms     
+
+ time...........................   1.11000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   4.76931E-01
+ internal energy................   1.15962E+03
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.42485E+02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   4.13633E+02
+ external work..................   1.71645E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.71621E+03
+ total energy / initial energy..   9.99865E-01
+ energy ratio w/o eroded energy.   9.99865E-01
+ global x velocity..............   2.31243E-01
+ global y velocity..............  -9.59710E+00
+ global z velocity..............  -3.06818E+00
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.31803E-03
+ percentage increase............   0.25624E+05
+
+
+ dt of cycle  414815 is controlled by dt2ms     
+
+ time...........................   1.12000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   2.67711E-01
+ internal energy................   1.24481E+03
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.55006E+02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   4.37833E+02
+ external work..................   1.83850E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.83791E+03
+ total energy / initial energy..   9.99682E-01
+ energy ratio w/o eroded energy.   9.99682E-01
+ global x velocity..............   1.27851E+00
+ global y velocity..............   1.99991E+00
+ global z velocity..............  -6.02672E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.32186E-03
+ percentage increase............   0.25932E+05
+
+
+ dt of cycle  418519 is controlled by dt2ms     
+
+ time...........................   1.13000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   5.85685E-01
+ internal energy................   1.30337E+03
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.54732E+02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   4.55215E+02
+ external work..................   1.91469E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.91390E+03
+ total energy / initial energy..   9.99588E-01
+ energy ratio w/o eroded energy.   9.99588E-01
+ global x velocity..............   5.39754E-01
+ global y velocity..............  -1.14700E+01
+ global z velocity..............  -2.34801E+00
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.32386E-03
+ percentage increase............   0.26093E+05
+
+
+ dt of cycle  422223 is controlled by dt2ms     
+
+ time...........................   1.14000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   4.93619E-01
+ internal energy................   1.34234E+03
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.58254E+02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   4.69064E+02
+ external work..................   1.97105E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.97015E+03
+ total energy / initial energy..   9.99546E-01
+ energy ratio w/o eroded energy.   9.99546E-01
+ global x velocity..............   1.55991E+00
+ global y velocity..............  -3.10438E+00
+ global z velocity..............  -9.20204E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.32507E-03
+ percentage increase............   0.26190E+05
+
+
+ dt of cycle  425926 is controlled by dt2ms     
+
+ time...........................   1.15000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   2.56883E-01
+ internal energy................   1.36726E+03
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.58290E+02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   4.87220E+02
+ external work..................   2.01405E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.01303E+03
+ total energy / initial energy..   9.99493E-01
+ energy ratio w/o eroded energy.   9.99493E-01
+ global x velocity..............   1.07617E+00
+ global y velocity..............  -4.60802E-01
+ global z velocity..............  -2.49164E+00
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.32582E-03
+ percentage increase............   0.26251E+05
+
+
+ dt of cycle  429630 is controlled by dt2ms     
+
+ time...........................   1.16000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   1.58318E-01
+ internal energy................   1.38139E+03
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.59140E+02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   5.06891E+02
+ external work..................   2.04870E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.04758E+03
+ total energy / initial energy..   9.99454E-01
+ energy ratio w/o eroded energy.   9.99454E-01
+ global x velocity..............   1.68233E-01
+ global y velocity..............   2.11610E+00
+ global z velocity..............  -3.08658E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.32625E-03
+ percentage increase............   0.26285E+05
+
+
+ dt of cycle  433334 is controlled by dt2ms     
+
+ time...........................   1.17000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   1.37424E-01
+ internal energy................   1.39237E+03
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.57901E+02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   5.23785E+02
+ external work..................   2.07532E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.07419E+03
+ total energy / initial energy..   9.99455E-01
+ energy ratio w/o eroded energy.   9.99455E-01
+ global x velocity..............  -1.18056E+00
+ global y velocity..............   2.30468E+00
+ global z velocity..............  -1.62104E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.32657E-03
+ percentage increase............   0.26311E+05
+
+
+ dt of cycle  437038 is controlled by dt2ms     
+
+ time...........................   1.18000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   2.15593E-01
+ internal energy................   1.39986E+03
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.58237E+02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   5.34238E+02
+ external work..................   2.09369E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.09255E+03
+ total energy / initial energy..   9.99455E-01
+ energy ratio w/o eroded energy.   9.99455E-01
+ global x velocity..............  -2.37416E-01
+ global y velocity..............  -8.94466E-01
+ global z velocity..............   3.50154E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.32679E-03
+ percentage increase............   0.26329E+05
+
+
+ dt of cycle  440741 is controlled by dt2ms     
+
+ time...........................   1.19000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   1.19185E+00
+ internal energy................   1.42122E+03
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.57148E+02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   5.24019E+02
+ external work..................   2.10474E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.10358E+03
+ total energy / initial energy..   9.99449E-01
+ energy ratio w/o eroded energy.   9.99449E-01
+ global x velocity..............  -5.30798E-01
+ global y velocity..............   3.43702E+00
+ global z velocity..............  -1.06846E+00
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.32734E-03
+ percentage increase............   0.26374E+05
+
+
+ dt of cycle  444445 is controlled by dt2ms     
+
+ time...........................   1.20000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   2.56392E-01
+ internal energy................   1.42881E+03
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.55939E+02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   5.24172E+02
+ external work..................   2.11038E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.10917E+03
+ total energy / initial energy..   9.99429E-01
+ energy ratio w/o eroded energy.   9.99429E-01
+ global x velocity..............   2.95191E-01
+ global y velocity..............  -7.62202E-01
+ global z velocity..............  -1.00468E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.32760E-03
+ percentage increase............   0.26394E+05
+
+
+ dt of cycle  448149 is controlled by dt2ms     
+
+ time...........................   1.21000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   7.91544E-02
+ internal energy................   1.42908E+03
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.56167E+02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   5.26601E+02
+ external work..................   2.11314E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.11193E+03
+ total energy / initial energy..   9.99427E-01
+ energy ratio w/o eroded energy.   9.99427E-01
+ global x velocity..............   1.41839E-02
+ global y velocity..............  -7.66320E-01
+ global z velocity..............   2.12193E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.32761E-03
+ percentage increase............   0.26395E+05
+
+
+ dt of cycle  451852 is controlled by dt2ms     
+
+ time...........................   1.22000E-01
+ time step......................   2.70000E-07
+ kinetic energy.................   4.12132E-02
+ internal energy................   1.42915E+03
+ spring and damper energy.......   1.00000E-20
+ hourglass energy ..............   1.56234E+02
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   5.27194E+02
+ external work..................   2.11384E+03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.11262E+03
+ total energy / initial energy..   9.99426E-01
+ energy ratio w/o eroded energy.   9.99426E-01
+ global x velocity..............  -1.41179E-02
+ global y velocity..............   8.70887E-02
+ global z velocity..............  -2.14798E-01
+ dissipated kinetic energy......   0.00000E+00
+ dissipated internal energy.....   0.00000E+00
+ drilling energy................   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ number of shell elements that  
+ reached the minimum time step..    0
+
+
+ added mass.....................   0.32761E-03
+ percentage increase............   0.26395E+05

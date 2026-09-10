@@ -1,0 +1,1190 @@
+ Wire Crimp Forming - 19-Strand Copper Conductor - Explicit Quasi-Static 
+                    ls-dyna smp d R16 R16.1_180_d50332d date 07/09/2025
+
+{BEGIN LEGEND}
+ Entity #        Title
+        1     FERRULE_TO_ANVIL                                                     
+        2     FERRULE_TO_PUNCH                                                     
+        3     STRAND_SELF_CONTACT                                                  
+        4     FERRULE_SELF_CONTACT                                                 
+        5     STRAND_TO_FERRULE                                                    
+{END LEGEND}
+
+
+
+
+ contact interface energy file, time= 0.0000000E+00
+    #             surfa       surfb        cycle=             1    frictional
+
+         1   0.0000E+00   0.0000E+00                               0.0000E+00
+         2   0.0000E+00   0.0000E+00                               0.0000E+00
+         3   0.0000E+00   0.0000E+00                               0.0000E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5   0.0000E+00   0.0000E+00                               0.0000E+00
+
+ summary   total surfa side= 0.0000000E+00
+           total surfb side= 0.0000000E+00
+           total energy    = 0.0000000E+00
+           friction energy = 0.0000000E+00
+
+
+
+
+
+
+ contact interface energy file, time= 0.1999890E-02
+    #             surfa       surfb        cycle=          7408    frictional
+
+         1   0.0000E+00   0.0000E+00                               0.0000E+00
+         2   0.0000E+00   0.0000E+00                               0.0000E+00
+         3  -0.1377E-23   0.0000E+00                               0.3144E-20
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5   0.0000E+00   0.0000E+00                               0.0000E+00
+
+ summary   total surfa side=-0.1376630E-23
+           total surfb side= 0.0000000E+00
+           total energy    =-0.1376630E-23
+           friction energy = 0.3143886E-20
+
+
+
+
+
+
+ contact interface energy file, time= 0.3999780E-02
+    #             surfa       surfb        cycle=         14815    frictional
+
+         1   0.4880E-06   0.0000E+00                               0.5330E-06
+         2  -0.4166E-01   0.6500E-01                               0.2298E-01
+         3  -0.1387E-23   0.0000E+00                               0.6149E-20
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5   0.0000E+00   0.0000E+00                               0.0000E+00
+
+ summary   total surfa side=-0.4165844E-01
+           total surfb side= 0.6500111E-01
+           total energy    = 0.2334267E-01
+           friction energy = 0.2298123E-01
+
+
+
+
+
+
+ contact interface energy file, time= 0.5999940E-02
+    #             surfa       surfb        cycle=         22223    frictional
+
+         1   0.2933E-02   0.0000E+00                               0.2198E-04
+         2  -0.3748E+00   0.5920E+00                               0.2136E+00
+         3  -0.1405E-23   0.0000E+00                               0.8694E-20
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5   0.0000E+00   0.0000E+00                               0.0000E+00
+
+ summary   total surfa side=-0.3719021E+00
+           total surfb side= 0.5919504E+00
+           total energy    = 0.2200483E+00
+           friction energy = 0.2136074E+00
+
+
+
+
+
+
+ contact interface energy file, time= 0.7999830E-02
+    #             surfa       surfb        cycle=         29630    frictional
+
+         1   0.8791E-02   0.0000E+00                               0.3604E-04
+         2  -0.1225E+01   0.1956E+01                               0.7193E+00
+         3  -0.1456E-23   0.0000E+00                               0.1119E-19
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5   0.0000E+00   0.0000E+00                               0.0000E+00
+
+ summary   total surfa side=-0.1216345E+01
+           total surfb side= 0.1956112E+01
+           total energy    = 0.7397667E+00
+           friction energy = 0.7193094E+00
+
+
+
+
+
+
+ contact interface energy file, time= 0.9999990E-02
+    #             surfa       surfb        cycle=         37038    frictional
+
+         1   0.9178E-02   0.0000E+00                               0.9667E-04
+         2  -0.2479E+01   0.4024E+01                               0.1525E+01
+         3  -0.1663E-23   0.0000E+00                               0.1383E-19
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5   0.0000E+00   0.0000E+00                               0.0000E+00
+
+ summary   total surfa side=-0.2470060E+01
+           total surfb side= 0.4023873E+01
+           total energy    = 0.1553813E+01
+           friction energy = 0.1525240E+01
+
+
+
+
+
+
+ contact interface energy file, time= 0.1199988E-01
+    #             surfa       surfb        cycle=         44445    frictional
+
+         1   0.7598E-02   0.0000E+00                               0.1580E-03
+         2  -0.3639E+01   0.6008E+01                               0.2345E+01
+         3  -0.1964E-23   0.0000E+00                               0.1702E-19
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5   0.0000E+00   0.0000E+00                               0.0000E+00
+
+ summary   total surfa side=-0.3631278E+01
+           total surfb side= 0.6008090E+01
+           total energy    = 0.2376812E+01
+           friction energy = 0.2345441E+01
+
+
+
+
+
+
+ contact interface energy file, time= 0.1399977E-01
+    #             surfa       surfb        cycle=         51852    frictional
+
+         1   0.6938E-02   0.0000E+00                               0.1812E-03
+         2  -0.4407E+01   0.7370E+01                               0.2940E+01
+         3  -0.2033E-23   0.0000E+00                               0.2009E-19
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5   0.0000E+00   0.0000E+00                               0.0000E+00
+
+ summary   total surfa side=-0.4400370E+01
+           total surfb side= 0.7369993E+01
+           total energy    = 0.2969623E+01
+           friction energy = 0.2940391E+01
+
+
+
+
+
+
+ contact interface energy file, time= 0.1599993E-01
+    #             surfa       surfb        cycle=         59260    frictional
+
+         1   0.7065E-02   0.0000E+00                               0.1843E-03
+         2  -0.4761E+01   0.8013E+01                               0.3229E+01
+         3   0.8659E-04   0.0000E+00                               0.5695E-04
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.9846E-03   0.1001E-02                               0.1607E-04
+
+ summary   total surfa side=-0.4755048E+01
+           total surfb side= 0.8014129E+01
+           total energy    = 0.3259081E+01
+           friction energy = 0.3229622E+01
+
+
+
+
+
+
+ contact interface energy file, time= 0.1799982E-01
+    #             surfa       surfb        cycle=         66667    frictional
+
+         1   0.7293E-02   0.0000E+00                               0.1856E-03
+         2  -0.4821E+01   0.8124E+01                               0.3280E+01
+         3   0.2320E-03   0.0000E+00                               0.1619E-03
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.9914E-03   0.1008E-02                               0.1654E-04
+
+ summary   total surfa side=-0.4814609E+01
+           total surfb side= 0.8124649E+01
+           total energy    = 0.3310040E+01
+           friction energy = 0.3280857E+01
+
+
+
+
+
+
+ contact interface energy file, time= 0.1999998E-01
+    #             surfa       surfb        cycle=         74075    frictional
+
+         1   0.8245E-02   0.0000E+00                               0.1787E-03
+         2  -0.5474E+01   0.9342E+01                               0.3849E+01
+         3   0.9437E-03   0.0000E+00                               0.8047E-03
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.2796E-02   0.3011E-02                               0.1906E-03
+
+ summary   total surfa side=-0.5467212E+01
+           total surfb side= 0.9345305E+01
+           total energy    = 0.3878092E+01
+           friction energy = 0.3849676E+01
+
+
+
+
+
+
+ contact interface energy file, time= 0.2199987E-01
+    #             surfa       surfb        cycle=         81482    frictional
+
+         1   0.6254E-02   0.0000E+00                               0.4635E-03
+         2  -0.8636E+01   0.1580E+02                               0.7124E+01
+         3   0.2604E-01   0.0000E+00                               0.2467E-01
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.9517E-01   0.9891E-01                               0.3269E-02
+
+ summary   total surfa side=-0.8698987E+01
+           total surfb side= 0.1589500E+02
+           total energy    = 0.7196016E+01
+           friction energy = 0.7152618E+01
+
+
+
+
+
+
+ contact interface energy file, time= 0.2399976E-01
+    #             surfa       surfb        cycle=         88889    frictional
+
+         1   0.9370E-02   0.0000E+00                               0.1189E-02
+         2  -0.1165E+02   0.2446E+02                               0.1279E+02
+         3   0.7316E-01   0.0000E+00                               0.6621E-01
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.2084E+00   0.2327E+00                               0.2283E-01
+
+ summary   total surfa side=-0.1177612E+02
+           total surfb side= 0.2469291E+02
+           total energy    = 0.1291679E+02
+           friction energy = 0.1288058E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.2599992E-01
+    #             surfa       surfb        cycle=         96297    frictional
+
+         1   0.8605E-02   0.0000E+00                               0.1294E-02
+         2  -0.1424E+02   0.3302E+02                               0.1880E+02
+         3   0.1252E+00   0.0000E+00                               0.1137E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.3357E+00   0.3792E+00                               0.4157E-01
+
+ summary   total surfa side=-0.1444526E+02
+           total surfb side= 0.3340146E+02
+           total energy    = 0.1895620E+02
+           friction energy = 0.1895938E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.2799981E-01
+    #             surfa       surfb        cycle=        103704    frictional
+
+         1   0.8728E-02   0.0000E+00                               0.1363E-02
+         2  -0.1564E+02   0.3864E+02                               0.2306E+02
+         3   0.1613E+00   0.0000E+00                               0.1454E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.4110E+00   0.4681E+00                               0.5556E-01
+
+ summary   total surfa side=-0.1588137E+02
+           total surfb side= 0.3910651E+02
+           total energy    = 0.2322513E+02
+           friction energy = 0.2326483E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.2999997E-01
+    #             surfa       surfb        cycle=        111112    frictional
+
+         1   0.1502E+00   0.0000E+00                               0.5111E-02
+         2  -0.2111E+02   0.4692E+02                               0.2578E+02
+         3   0.1905E+00   0.0000E+00                               0.1721E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.4505E+00   0.5204E+00                               0.6885E-01
+
+ summary   total surfa side=-0.2122442E+02
+           total surfb side= 0.4744205E+02
+           total energy    = 0.2621764E+02
+           friction energy = 0.2602768E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.3199986E-01
+    #             surfa       surfb        cycle=        118519    frictional
+
+         1   0.1576E+00   0.0000E+00                               0.5123E-02
+         2  -0.2165E+02   0.4768E+02                               0.2601E+02
+         3   0.2052E+00   0.0000E+00                               0.1862E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.4491E+00   0.5233E+00                               0.7305E-01
+
+ summary   total surfa side=-0.2173901E+02
+           total surfb side= 0.4820827E+02
+           total energy    = 0.2646926E+02
+           friction energy = 0.2627257E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.3399975E-01
+    #             surfa       surfb        cycle=        125926    frictional
+
+         1   0.1759E+00   0.0000E+00                               0.5286E-02
+         2  -0.2177E+02   0.4784E+02                               0.2602E+02
+         3   0.2163E+00   0.0000E+00                               0.1966E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.4378E+00   0.5141E+00                               0.7497E-01
+
+ summary   total surfa side=-0.2181788E+02
+           total surfb side= 0.4835765E+02
+           total energy    = 0.2653977E+02
+           friction energy = 0.2629947E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.3599991E-01
+    #             surfa       surfb        cycle=        133334    frictional
+
+         1   0.1826E+00   0.0000E+00                               0.5351E-02
+         2  -0.2215E+02   0.4839E+02                               0.2617E+02
+         3   0.2225E+00   0.0000E+00                               0.2023E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.4302E+00   0.5079E+00                               0.7627E-01
+
+ summary   total surfa side=-0.2217203E+02
+           total surfb side= 0.4889367E+02
+           total energy    = 0.2672165E+02
+           friction energy = 0.2645536E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.3799980E-01
+    #             surfa       surfb        cycle=        140741    frictional
+
+         1   0.2031E+00   0.0000E+00                               0.5594E-02
+         2  -0.2301E+02   0.4961E+02                               0.2650E+02
+         3   0.2260E+00   0.0000E+00                               0.2059E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.4254E+00   0.5040E+00                               0.7722E-01
+
+ summary   total surfa side=-0.2300548E+02
+           total surfb side= 0.5011726E+02
+           total energy    = 0.2711178E+02
+           friction energy = 0.2678994E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.3999996E-01
+    #             surfa       surfb        cycle=        148149    frictional
+
+         1   0.2449E+00   0.0000E+00                               0.6311E-02
+         2  -0.2460E+02   0.5190E+02                               0.2710E+02
+         3   0.2292E+00   0.0000E+00                               0.2095E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.4226E+00   0.5022E+00                               0.7872E-01
+
+ summary   total surfa side=-0.2454909E+02
+           total surfb side= 0.5240291E+02
+           total energy    = 0.2785383E+02
+           friction energy = 0.2739315E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.4199985E-01
+    #             surfa       surfb        cycle=        155556    frictional
+
+         1   0.3321E+00   0.0000E+00                               0.8882E-02
+         2  -0.2762E+02   0.5606E+02                               0.2808E+02
+         3   0.2335E+00   0.0000E+00                               0.2140E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.4151E+00   0.4960E+00                               0.8029E-01
+
+ summary   total surfa side=-0.2746893E+02
+           total surfb side= 0.5655797E+02
+           total energy    = 0.2908904E+02
+           friction energy = 0.2838376E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.4399974E-01
+    #             surfa       surfb        cycle=        162963    frictional
+
+         1   0.4750E+00   0.0000E+00                               0.1737E-01
+         2  -0.3321E+02   0.6329E+02                               0.2956E+02
+         3   0.2389E+00   0.0000E+00                               0.2196E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.4051E+00   0.4866E+00                               0.8166E-01
+
+ summary   total surfa side=-0.3290066E+02
+           total surfb side= 0.6377673E+02
+           total energy    = 0.3087607E+02
+           friction energy = 0.2988065E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.4599990E-01
+    #             surfa       surfb        cycle=        170371    frictional
+
+         1   0.4773E+00   0.0000E+00                               0.4789E-01
+         2  -0.4253E+02   0.7373E+02                               0.3061E+02
+         3   0.2432E+00   0.0000E+00                               0.2236E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.3992E+00   0.4813E+00                               0.8219E-01
+
+ summary   total surfa side=-0.4220626E+02
+           total surfb side= 0.7420745E+02
+           total energy    = 0.3200119E+02
+           friction energy = 0.3095975E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.4799979E-01
+    #             surfa       surfb        cycle=        177778    frictional
+
+         1   0.5824E+00   0.0000E+00                               0.1021E+00
+         2  -0.5374E+02   0.8648E+02                               0.3205E+02
+         3   0.2492E+00   0.0000E+00                               0.2291E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.3862E+00   0.4698E+00                               0.8359E-01
+
+ summary   total surfa side=-0.5329691E+02
+           total surfb side= 0.8695080E+02
+           total energy    = 0.3365388E+02
+           friction energy = 0.3246471E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.4999995E-01
+    #             surfa       surfb        cycle=        185186    frictional
+
+         1   0.7381E+00   0.0000E+00                               0.1818E+00
+         2  -0.6738E+02   0.1031E+03                               0.3489E+02
+         3   0.2620E+00   0.0000E+00                               0.2409E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.3722E+00   0.4585E+00                               0.8635E-01
+
+ summary   total surfa side=-0.6675454E+02
+           total surfb side= 0.1035999E+03
+           total energy    = 0.3684540E+02
+           friction energy = 0.3540153E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.5199984E-01
+    #             surfa       surfb        cycle=        192593    frictional
+
+         1   0.1038E+01   0.0000E+00                               0.4121E+00
+         2  -0.8604E+02   0.1255E+03                               0.3834E+02
+         3   0.2644E+00   0.0000E+00                               0.2431E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.3716E+00   0.4580E+00                               0.8648E-01
+
+ summary   total surfa side=-0.8511130E+02
+           total surfb side= 0.1259761E+03
+           total energy    = 0.4086481E+02
+           friction energy = 0.3907840E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.5400000E-01
+    #             surfa       surfb        cycle=        200001    frictional
+
+         1   0.1680E+01   0.0000E+00                               0.1054E+01
+         2  -0.1128E+03   0.1564E+03                               0.4201E+02
+         3   0.2652E+00   0.0000E+00                               0.2439E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.3716E+00   0.4580E+00                               0.8648E-01
+
+ summary   total surfa side=-0.1112643E+03
+           total surfb side= 0.1568438E+03
+           total energy    = 0.4557955E+02
+           friction energy = 0.4339230E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.5599989E-01
+    #             surfa       surfb        cycle=        207408    frictional
+
+         1   0.3057E+01   0.0000E+00                               0.2083E+01
+         2  -0.1495E+03   0.1992E+03                               0.4744E+02
+         3   0.2659E+00   0.0000E+00                               0.2445E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.3716E+00   0.4580E+00                               0.8648E-01
+
+ summary   total surfa side=-0.1465251E+03
+           total surfb side= 0.1996327E+03
+           total energy    = 0.5310757E+02
+           friction energy = 0.4985199E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.5799978E-01
+    #             surfa       surfb        cycle=        214815    frictional
+
+         1   0.2910E+01   0.0000E+00                               0.2073E+01
+         2  -0.1825E+03   0.2464E+03                               0.6113E+02
+         3   0.2667E+00   0.0000E+00                               0.2453E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.3716E+00   0.4580E+00                               0.8648E-01
+
+ summary   total surfa side=-0.1796916E+03
+           total surfb side= 0.2468476E+03
+           total energy    = 0.6715595E+02
+           friction energy = 0.6353899E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.5999994E-01
+    #             surfa       surfb        cycle=        222223    frictional
+
+         1   0.2695E+01   0.0000E+00                               0.2041E+01
+         2  -0.2112E+03   0.2887E+03                               0.7499E+02
+         3   0.2675E+00   0.0000E+00                               0.2460E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.3716E+00   0.4580E+00                               0.8648E-01
+
+ summary   total surfa side=-0.2085594E+03
+           total surfb side= 0.2892051E+03
+           total energy    = 0.8064573E+02
+           friction energy = 0.7736002E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.6199983E-01
+    #             surfa       surfb        cycle=        229630    frictional
+
+         1   0.2569E+01   0.0000E+00                               0.2031E+01
+         2  -0.2365E+03   0.3272E+03                               0.8805E+02
+         3   0.2687E+00   0.0000E+00                               0.2471E+00
+         4   0.0000E+00   0.0000E+00                               0.0000E+00
+         5  -0.3716E+00   0.4580E+00                               0.8648E-01
+
+ summary   total surfa side=-0.2340652E+03
+           total surfb side= 0.3276534E+03
+           total energy    = 0.9358826E+02
+           friction energy = 0.9040973E+02
+
+
+
+
+
+
+ contact interface energy file, time= 0.6399999E-01
+    #             surfa       surfb        cycle=        237038    frictional
+
+         1   0.2428E+01   0.0000E+00                               0.2040E+01
+         2  -0.2553E+03   0.3551E+03                               0.9820E+02
+         3   0.2699E+00   0.0000E+00                               0.2482E+00
+         4   0.3689E-01   0.0000E+00                               0.1061E-01
+         5  -0.3716E+00   0.4580E+00                               0.8648E-01
+
+ summary   total surfa side=-0.2529182E+03
+           total surfb side= 0.3555650E+03
+           total energy    = 0.1026468E+03
+           friction energy = 0.1005825E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.6599988E-01
+    #             surfa       surfb        cycle=        244445    frictional
+
+         1   0.2695E+01   0.0000E+00                               0.2058E+01
+         2  -0.2793E+03   0.3880E+03                               0.1072E+03
+         3   0.2710E+00   0.0000E+00                               0.2493E+00
+         4   0.1284E+00   0.0000E+00                               0.1322E-01
+         5  -0.3716E+00   0.4580E+00                               0.8648E-01
+
+ summary   total surfa side=-0.2765348E+03
+           total surfb side= 0.3885000E+03
+           total energy    = 0.1119652E+03
+           friction energy = 0.1095758E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.6799977E-01
+    #             surfa       surfb        cycle=        251852    frictional
+
+         1   0.2889E+01   0.0000E+00                               0.2091E+01
+         2  -0.3065E+03   0.4273E+03                               0.1191E+03
+         3   0.2719E+00   0.0000E+00                               0.2501E+00
+         4   0.4578E+00   0.0000E+00                               0.1242E+00
+         5  -0.3716E+00   0.4580E+00                               0.8649E-01
+
+ summary   total surfa side=-0.3032988E+03
+           total surfb side= 0.4278048E+03
+           total energy    = 0.1245060E+03
+           friction energy = 0.1216104E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.6999993E-01
+    #             surfa       surfb        cycle=        259260    frictional
+
+         1   0.2658E+01   0.0000E+00                               0.2073E+01
+         2  -0.3317E+03   0.4648E+03                               0.1318E+03
+         3   0.2729E+00   0.0000E+00                               0.2510E+00
+         4   0.8858E+00   0.0000E+00                               0.4099E+00
+         5  -0.3716E+00   0.4580E+00                               0.8653E-01
+
+ summary   total surfa side=-0.3282851E+03
+           total surfb side= 0.4652501E+03
+           total energy    = 0.1369650E+03
+           friction energy = 0.1346301E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.7199982E-01
+    #             surfa       surfb        cycle=        266667    frictional
+
+         1   0.2663E+01   0.0000E+00                               0.2072E+01
+         2  -0.3520E+03   0.4947E+03                               0.1414E+03
+         3   0.3508E+00   0.0000E+00                               0.3174E+00
+         4   0.6355E+00   0.0000E+00                               0.4057E+00
+         5  -0.9046E+00   0.1016E+01                               0.1033E+00
+
+ summary   total surfa side=-0.3492587E+03
+           total surfb side= 0.4956933E+03
+           total energy    = 0.1464346E+03
+           friction energy = 0.1442798E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.7399998E-01
+    #             surfa       surfb        cycle=        274075    frictional
+
+         1   0.2736E+01   0.0000E+00                               0.2082E+01
+         2  -0.3718E+03   0.5231E+03                               0.1500E+03
+         3   0.8090E+00   0.0000E+00                               0.7289E+00
+         4   0.6864E+00   0.0000E+00                               0.4078E+00
+         5  -0.2225E+01   0.2397E+01                               0.1619E+00
+
+ summary   total surfa side=-0.3697867E+03
+           total surfb side= 0.5255235E+03
+           total energy    = 0.1557369E+03
+           friction energy = 0.1534305E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.7599987E-01
+    #             surfa       surfb        cycle=        281482    frictional
+
+         1   0.2822E+01   0.0000E+00                               0.2098E+01
+         2  -0.3897E+03   0.5486E+03                               0.1576E+03
+         3   0.1233E+01   0.0000E+00                               0.1092E+01
+         4   0.7103E+00   0.0000E+00                               0.4101E+00
+         5  -0.3033E+01   0.3308E+01                               0.2746E+00
+
+ summary   total surfa side=-0.3879569E+03
+           total surfb side= 0.5519523E+03
+           total energy    = 0.1639953E+03
+           friction energy = 0.1614907E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.7799976E-01
+    #             surfa       surfb        cycle=        288889    frictional
+
+         1   0.2882E+01   0.0000E+00                               0.2114E+01
+         2  -0.4057E+03   0.5714E+03                               0.1644E+03
+         3   0.1389E+01   0.0000E+00                               0.1225E+01
+         4   0.8112E+00   0.0000E+00                               0.4121E+00
+         5  -0.3403E+01   0.3734E+01                               0.3226E+00
+
+ summary   total surfa side=-0.4040697E+03
+           total surfb side= 0.5751810E+03
+           total energy    = 0.1711113E+03
+           friction energy = 0.1684286E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.7999992E-01
+    #             surfa       surfb        cycle=        296297    frictional
+
+         1   0.2767E+01   0.0000E+00                               0.2096E+01
+         2  -0.4178E+03   0.5890E+03                               0.1701E+03
+         3   0.1496E+01   0.0000E+00                               0.1318E+01
+         4   0.7363E+00   0.0000E+00                               0.4193E+00
+         5  -0.3872E+01   0.4260E+01                               0.3723E+00
+
+ summary   total surfa side=-0.4167122E+03
+           total surfb side= 0.5932915E+03
+           total energy    = 0.1765793E+03
+           friction energy = 0.1742597E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.8199981E-01
+    #             surfa       surfb        cycle=        303704    frictional
+
+         1   0.2670E+01   0.0000E+00                               0.2086E+01
+         2  -0.4262E+03   0.6012E+03                               0.1740E+03
+         3   0.1643E+01   0.0000E+00                               0.1448E+01
+         4   0.7173E+00   0.0000E+00                               0.4276E+00
+         5  -0.4307E+01   0.4788E+01                               0.4522E+00
+
+ summary   total surfa side=-0.4254619E+03
+           total surfb side= 0.6059476E+03
+           total energy    = 0.1804857E+03
+           friction energy = 0.1784094E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.8399997E-01
+    #             surfa       surfb        cycle=        311112    frictional
+
+         1   0.2674E+01   0.0000E+00                               0.2085E+01
+         2  -0.4318E+03   0.6093E+03                               0.1765E+03
+         3   0.1760E+01   0.0000E+00                               0.1541E+01
+         4   0.7398E+00   0.0000E+00                               0.4288E+00
+         5  -0.4700E+01   0.5277E+01                               0.5436E+00
+
+ summary   total surfa side=-0.4313223E+03
+           total surfb side= 0.6145561E+03
+           total energy    = 0.1832338E+03
+           friction energy = 0.1811430E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.8599986E-01
+    #             surfa       surfb        cycle=        318519    frictional
+
+         1   0.2749E+01   0.0000E+00                               0.2091E+01
+         2  -0.4352E+03   0.6142E+03                               0.1780E+03
+         3   0.1853E+01   0.0000E+00                               0.1606E+01
+         4   0.7345E+00   0.0000E+00                               0.4292E+00
+         5  -0.5036E+01   0.5686E+01                               0.6009E+00
+
+ summary   total surfa side=-0.4349397E+03
+           total surfb side= 0.6199073E+03
+           total energy    = 0.1849677E+03
+           friction energy = 0.1826830E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.8799975E-01
+    #             surfa       surfb        cycle=        325926    frictional
+
+         1   0.2822E+01   0.0000E+00                               0.2100E+01
+         2  -0.4370E+03   0.6167E+03                               0.1786E+03
+         3   0.1930E+01   0.0000E+00                               0.1655E+01
+         4   0.7382E+00   0.0000E+00                               0.4292E+00
+         5  -0.5241E+01   0.5929E+01                               0.6295E+00
+
+ summary   total surfa side=-0.4367949E+03
+           total surfb side= 0.6226438E+03
+           total energy    = 0.1858489E+03
+           friction energy = 0.1833693E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.8999991E-01
+    #             surfa       surfb        cycle=        333334    frictional
+
+         1   0.2832E+01   0.0000E+00                               0.2102E+01
+         2  -0.4375E+03   0.6174E+03                               0.1787E+03
+         3   0.1960E+01   0.0000E+00                               0.1676E+01
+         4   0.7351E+00   0.0000E+00                               0.4295E+00
+         5  -0.5298E+01   0.6013E+01                               0.6518E+00
+
+ summary   total surfa side=-0.4373015E+03
+           total surfb side= 0.6233987E+03
+           total energy    = 0.1860971E+03
+           friction energy = 0.1835967E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.9199980E-01
+    #             surfa       surfb        cycle=        340741    frictional
+
+         1   0.2843E+01   0.0000E+00                               0.2103E+01
+         2  -0.4376E+03   0.6175E+03                               0.1788E+03
+         3   0.1965E+01   0.0000E+00                               0.1680E+01
+         4   0.7362E+00   0.0000E+00                               0.4295E+00
+         5  -0.5309E+01   0.6026E+01                               0.6550E+00
+
+ summary   total surfa side=-0.4374118E+03
+           total surfb side= 0.6235753E+03
+           total energy    = 0.1861635E+03
+           friction energy = 0.1836368E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.9399996E-01
+    #             surfa       surfb        cycle=        348149    frictional
+
+         1   0.2774E+01   0.0000E+00                               0.2098E+01
+         2  -0.4393E+03   0.6200E+03                               0.1796E+03
+         3   0.2155E+01   0.0000E+00                               0.1823E+01
+         4   0.7200E+00   0.0000E+00                               0.4297E+00
+         5  -0.5616E+01   0.6387E+01                               0.7083E+00
+
+ summary   total surfa side=-0.4392887E+03
+           total surfb side= 0.6263470E+03
+           total energy    = 0.1870583E+03
+           friction energy = 0.1846551E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.9599985E-01
+    #             surfa       surfb        cycle=        355556    frictional
+
+         1   0.2869E+01   0.0000E+00                               0.2111E+01
+         2  -0.4444E+03   0.6273E+03                               0.1816E+03
+         3   0.2476E+01   0.0000E+00                               0.2084E+01
+         4   0.6526E+00   0.0000E+00                               0.4303E+00
+         5  -0.6244E+01   0.7156E+01                               0.8265E+00
+
+ summary   total surfa side=-0.4446829E+03
+           total surfb side= 0.6344078E+03
+           total energy    = 0.1897249E+03
+           friction energy = 0.1870954E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.9799974E-01
+    #             surfa       surfb        cycle=        362963    frictional
+
+         1   0.3306E+01   0.0000E+00                               0.2223E+01
+         2  -0.4562E+03   0.6429E+03                               0.1851E+03
+         3   0.3008E+01   0.0000E+00                               0.2499E+01
+         4   0.6815E+00   0.0000E+00                               0.4318E+00
+         5  -0.7355E+01   0.8596E+01                               0.1109E+01
+
+ summary   total surfa side=-0.4565731E+03
+           total surfb side= 0.6515005E+03
+           total energy    = 0.1949275E+03
+           friction energy = 0.1913659E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.9999990E-01
+    #             surfa       surfb        cycle=        370371    frictional
+
+         1   0.5473E+01   0.0000E+00                               0.2573E+01
+         2  -0.4883E+03   0.6797E+03                               0.1873E+03
+         3   0.4268E+01   0.0000E+00                               0.3216E+01
+         4   0.6916E+00   0.0000E+00                               0.4348E+00
+         5  -0.1283E+02   0.1505E+02                               0.1627E+01
+
+ summary   total surfa side=-0.4907166E+03
+           total surfb side= 0.6947410E+03
+           total energy    = 0.2040244E+03
+           friction energy = 0.1951030E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.1019998E+00
+    #             surfa       surfb        cycle=        377778    frictional
+
+         1   0.8506E+01   0.0000E+00                               0.3281E+01
+         2  -0.5603E+03   0.7585E+03                               0.1897E+03
+         3   0.6138E+01   0.0000E+00                               0.4160E+01
+         4   0.8955E+00   0.0000E+00                               0.4351E+00
+         5  -0.3307E+02   0.3717E+02                               0.2776E+01
+
+ summary   total surfa side=-0.5778718E+03
+           total surfb side= 0.7956874E+03
+           total energy    = 0.2178156E+03
+           friction energy = 0.2003632E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.1039999E+00
+    #             surfa       surfb        cycle=        385186    frictional
+
+         1   0.1346E+02   0.0000E+00                               0.4653E+01
+         2  -0.6903E+03   0.9017E+03                               0.1963E+03
+         3   0.9393E+01   0.0000E+00                               0.6000E+01
+         4   0.1201E+01   0.0000E+00                               0.4347E+00
+         5  -0.7873E+02   0.8659E+02                               0.5437E+01
+
+ summary   total surfa side=-0.7449461E+03
+           total surfb side= 0.9882462E+03
+           total energy    = 0.2433002E+03
+           friction energy = 0.2128674E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.1059998E+00
+    #             surfa       surfb        cycle=        392593    frictional
+
+         1   0.1674E+02   0.0000E+00                               0.5704E+01
+         2  -0.8509E+03   0.1102E+04                               0.2168E+03
+         3   0.1202E+02   0.0000E+00                               0.7841E+01
+         4   0.1297E+01   0.0000E+00                               0.4836E+00
+         5  -0.1288E+03   0.1416E+03                               0.9692E+01
+
+ summary   total surfa side=-0.9496524E+03
+           total surfb side= 0.1243433E+04
+           total energy    = 0.2937806E+03
+           friction energy = 0.2404960E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.1080000E+00
+    #             surfa       surfb        cycle=        400001    frictional
+
+         1   0.2155E+02   0.0000E+00                               0.6716E+01
+         2  -0.1036E+04   0.1335E+04                               0.2459E+03
+         3   0.1537E+02   0.0000E+00                               0.9878E+01
+         4   0.1292E+01   0.0000E+00                               0.4984E+00
+         5  -0.1832E+03   0.2016E+03                               0.1402E+02
+
+ summary   total surfa side=-0.1180597E+04
+           total surfb side= 0.1536174E+04
+           total energy    = 0.3555770E+03
+           friction energy = 0.2770092E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.1099999E+00
+    #             surfa       surfb        cycle=        407408    frictional
+
+         1   0.2703E+02   0.0000E+00                               0.8247E+01
+         2  -0.1262E+04   0.1590E+04                               0.2789E+03
+         3   0.1975E+02   0.0000E+00                               0.1280E+02
+         4   0.1341E+01   0.0000E+00                               0.5191E+00
+         5  -0.2526E+03   0.2792E+03                               0.2086E+02
+
+ summary   total surfa side=-0.1466552E+04
+           total surfb side= 0.1868954E+04
+           total energy    = 0.4024028E+03
+           friction energy = 0.3212948E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.1119998E+00
+    #             surfa       surfb        cycle=        414815    frictional
+
+         1   0.2808E+02   0.0000E+00                               0.9928E+01
+         2  -0.1490E+04   0.1839E+04                               0.3134E+03
+         3   0.2398E+02   0.0000E+00                               0.1629E+02
+         4   0.1688E+01   0.0000E+00                               0.7862E+00
+         5  -0.3251E+03   0.3605E+03                               0.2921E+02
+
+ summary   total surfa side=-0.1761211E+04
+           total surfb side= 0.2199044E+04
+           total energy    = 0.4378334E+03
+           friction energy = 0.3696389E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.1139999E+00
+    #             surfa       surfb        cycle=        422223    frictional
+
+         1   0.1883E+02   0.0000E+00                               0.1015E+02
+         2  -0.1592E+04   0.1971E+04                               0.3467E+03
+         3   0.2630E+02   0.0000E+00                               0.2009E+02
+         4   0.3274E+01   0.0000E+00                               0.2399E+01
+         5  -0.3520E+03   0.3931E+03                               0.3702E+02
+
+ summary   total surfa side=-0.1895058E+04
+           total surfb side= 0.2364122E+04
+           total energy    = 0.4690639E+03
+           friction energy = 0.4163556E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.1159998E+00
+    #             surfa       surfb        cycle=        429630    frictional
+
+         1   0.1849E+02   0.0000E+00                               0.1108E+02
+         2  -0.1637E+04   0.2049E+04                               0.3649E+03
+         3   0.2826E+02   0.0000E+00                               0.2211E+02
+         4   0.4084E+01   0.0000E+00                               0.3117E+01
+         5  -0.3623E+03   0.4070E+03                               0.4096E+02
+
+ summary   total surfa side=-0.1948787E+04
+           total surfb side= 0.2455678E+04
+           total energy    = 0.5068909E+03
+           friction energy = 0.4421367E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.1180000E+00
+    #             surfa       surfb        cycle=        437038    frictional
+
+         1   0.1794E+02   0.0000E+00                               0.1148E+02
+         2  -0.1658E+04   0.2094E+04                               0.3753E+03
+         3   0.2951E+02   0.0000E+00                               0.2334E+02
+         4   0.4572E+01   0.0000E+00                               0.3618E+01
+         5  -0.3674E+03   0.4137E+03                               0.4256E+02
+
+ summary   total surfa side=-0.1973116E+04
+           total surfb side= 0.2507354E+04
+           total energy    = 0.5342380E+03
+           friction energy = 0.4563136E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.1199999E+00
+    #             surfa       surfb        cycle=        444445    frictional
+
+         1   0.1655E+02   0.0000E+00                               0.1181E+02
+         2  -0.1694E+04   0.2110E+04                               0.3839E+03
+         3   0.3160E+02   0.0000E+00                               0.2571E+02
+         4   0.5257E+01   0.0000E+00                               0.4419E+01
+         5  -0.3751E+03   0.4297E+03                               0.5139E+02
+
+ summary   total surfa side=-0.2015950E+04
+           total surfb side= 0.2540122E+04
+           total energy    = 0.5241720E+03
+           friction energy = 0.4772208E+03
+
+
+
+
+
+
+ contact interface energy file, time= 0.1219998E+00
+    #             surfa       surfb        cycle=        451852    frictional
+
+         1   0.1707E+02   0.0000E+00                               0.1183E+02
+         2  -0.1696E+04   0.2114E+04                               0.3845E+03
+         3   0.3187E+02   0.0000E+00                               0.2589E+02
+         4   0.5267E+01   0.0000E+00                               0.4424E+01
+         5  -0.3752E+03   0.4302E+03                               0.5163E+02
+
+ summary   total surfa side=-0.2016846E+04
+           total surfb side= 0.2544040E+04
+           total energy    = 0.5271939E+03
+           friction energy = 0.4782414E+03
+
+
+

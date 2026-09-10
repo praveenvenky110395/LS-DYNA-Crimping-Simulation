@@ -1,0 +1,399 @@
+ License option : check ansys licenses only
+
+
+ ***************************************************************
+ *            ANSYS LEGAL NOTICES                              *
+ ***************************************************************
+ *                                                             *
+ * Copyright 1971-2025 ANSYS, Inc.  All rights reserved.       *
+ * Unauthorized use, distribution or duplication is            *
+ * prohibited.                                                 *
+ *                                                             *
+ * Ansys is a registered trademark of ANSYS, Inc. or its       *
+ * subsidiaries in the United States or other countries.       *
+ * See the ANSYS, Inc. online documentation or the ANSYS, Inc. *
+ * documentation CD or online help for the complete Legal      *
+ * Notice.                                                     *
+ *                                                             *
+ ***************************************************************
+ *                                                             *
+ * THIS ANSYS SOFTWARE PRODUCT AND PROGRAM DOCUMENTATION       *
+ * INCLUDE TRADE SECRETS AND CONFIDENTIAL AND PROPRIETARY      *
+ * PRODUCTS OF ANSYS, INC., ITS SUBSIDIARIES, OR LICENSORS.    *
+ * The software products and documentation are furnished by    *
+ * ANSYS, Inc. or its subsidiaries under a software license    *
+ * agreement that contains provisions concerning               *
+ * non-disclosure, copying, length and nature of use,          *
+ * compliance with exporting laws, warranties, disclaimers,    *
+ * limitations of liability, and remedies, and other           *
+ * provisions.  The software products and documentation may be *
+ * used, disclosed, transferred, or copied only in accordance  *
+ * with the terms and conditions of that software license      *
+ * agreement.                                                  *
+ *                                                             *
+ * ANSYS, Inc. is a UL registered                              *
+ * ISO 9001:2015 company.                                      *
+ *                                                             *
+ ***************************************************************
+ *                                                             *
+ * This product is subject to U.S. laws governing export and   *
+ * re-export.                                                  *
+ *                                                             *
+ * For U.S. Government users, except as specifically granted   *
+ * by the ANSYS, Inc. software license agreement, the use,     *
+ * duplication, or disclosure by the United States Government  *
+ * is subject to restrictions stated in the ANSYS, Inc.        *
+ * software license agreement and FAR 12.212 (for non-DOD      *
+ * licenses).                                                  *
+ *                                                             *
+ ***************************************************************
+
+      Date: 09/08/2026      Time: 01:22:56  
+      ___________________________________________________ 
+     |                                                   |
+     |  LS-DYNA, A Program for Nonlinear Dynamic         |
+     |  Analysis of Structures in Three Dimensions       |
+     |  Date    : 07/09/2025    Time: 09:53:35           |
+     |  Version : smp d R16                              |
+     |  Revision: R16.1-180-gd50332dbe5                  |
+     |  AnLicVer: 2026 R1 (20251230+dl-79-g6933d52)      |
+     |                                                   |
+     |  Features enabled in this version:                |
+     |    Shared Memory Parallel                         |
+     |    CESE CHEMISTRY EM ICFD STOCHASTIC_PARTICLES    |
+     |    FFTW (multi-dimensional FFTW Library)          |
+     |    ARPACK (nonsymmetric eigensolver library)      |
+     |    ANSYSLIC enabled                               |
+     |                                                   |
+     |  Platform   : WINDOWS X64                         |
+     |  OS Level   : Windows 10  (Build 26200) uum       |
+     |  Compiler   : Intel Fortran Compiler 19.0 SSE2    |
+     |  Hostname   : sharvani                            |
+     |  Precision  : Double precision (I8R8)             |
+     |                                                   |
+     |  Unauthorized use infringes Ansys Inc. copyrights |
+     |___________________________________________________|
+
+[license/error] *** ANSYS LICENSE MANAGER ERROR ***
+[license/error] Your version of the Ansys license client software is out of date. Please refer to Licensing Error Messages in the Troubleshooting section of the ANSYS, Inc. Licensing Guide. 
+[license/error]          The version of the license client 63420@sharvani [Ansys Release 2025 R2] must be greater or equal to the client LSDYNA version [Ansys Release 2026 R1].
+ Student license active; 355 days remaning.
+
+ Executing with ANSYS license
+
+ Command line options: i=C:\Users\SHARAV~1\DOWNLO~1\CRIMP_~2\CRIMP_~1.K 
+                       ncpu=4 
+                       memory=34m
+
+ Input file: C:\Users\SHARAV~1\DOWNLO~1\CRIMP_~2\CRIMP_~1.K                                  
+
+ The native file format       : 64-bit small endian
+ Memory size from command line:    34000000
+
+ on UNIX computers note the following change:
+
+ ctrl-c interrupts ls-dyna and prompts for a sense  switch.
+ type the desired sense switch: sw1., sw2., etc. to continue
+ the execution.  ls-dyna will respond as explained in the users manual
+
+    type                      response
+   -----   ------------------------------------------------------------
+   quit    ls-dyna terminates.
+   stop    ls-dyna terminates.
+   sw1.    a restart file is written and ls-dyna terminates.
+   sw2.    ls-dyna responds with time and cycle numbers.    
+   sw3.    a restart file is written and ls-dyna continues calculations.
+   sw4.    a plot state is written and ls-dyna continues calculations.
+   swa.    ls-dyna flushes all output i/o buffers.
+   swb.    a dynain is written and ls-dyna continues calculations.
+   swc.    a restart and dynain are written and ls-dyna continues calculations.
+   swd.    a restart and dynain are written and ls-dyna terminates.
+   swe.    stop dynamic relaxation just as though convergence
+   endtime=time change the termination time
+   lpri    toggle implicit lin. alg. solver output on/off.
+   nlpr    toggle implicit nonlinear solver output on/off.
+   iter    toggle implicit output to d3iter database on/off.
+   prof    output timing data to messag and continue.
+   conv    force implicit nonlinear convergence for current time step.
+   ttrm    terminate implicit time step, reduce time step, retry time step.
+   rtrm    terminate implicit at end of current time step.
+
+
+ ********  notice  ********  notice  ********  notice  ********
+ *                                                            *
+ * This is the LS-DYNA Finite Element code.                   *
+ *                                                            *
+ * Neither LST nor the authors assume any responsibility for  *
+ * the validity, accuracy, or applicability of any results    *
+ * obtained from this system. Users must verify their own     *
+ * results.                                                   *
+ *                                                            *
+ * LST endeavors to make the LS-DYNA code as complete,        *
+ * accurate and easy to use as possible.                      *
+ * Suggestions and comments are welcomed.  Please report any  *
+ * errors encountered in either the documentation or results  *
+ * immediately to LST through your site focus.                *
+ *                                                            *
+ * Copyright (C) 1990-2021                                    *
+ * by Livermore Software Technology, LLC                      *
+ * All rights reserved                                        *
+ *                                                            *
+ ********  notice  ********  notice  ********  notice  ********
+
+ Beginning of keyword reader                                   09/08/26 01:23:02
+
+ Memory required to process keyword     :     720900  
+ Additional dynamic memory required     :    8837997  
+
+
+ input of data is completed
+
+ initial kinetic energy = 0.00000000E+00
+
+ The LS-DYNA time step size should not exceed     3.255E-09
+ to avoid contact instabilities.  If the step size is
+ bigger then scale the penalty of the offending surface.
+
+ Memory required to begin solution      :    2138K
+ Additional dynamically allocated memory:      17M
+                                   Total:      19M
+
+ initialization completed
+
+ calculation with mass scaling for minimum dt
+    added mass   =   2.8468E-04
+    physical mass=   1.2412E-06
+    ratio        =   2.2936E+02
+       1 t 0.0000E+00 dt 2.70E-07 flush i/o buffers            09/08/26 01:23:03
+       1 t 0.0000E+00 dt 2.70E-07 write d3plot file            09/08/26 01:23:03
+ cpu time per zone cycle............         0 nanoseconds
+ average cpu time per zone cycle....      1320 nanoseconds
+ average clock time per zone cycle..       902 nanoseconds
+
+ estimated total cpu time          =     41195 sec (      11 hrs 26 mins)
+ estimated cpu time to complete    =     41188 sec (      11 hrs 26 mins)
+ estimated total clock time        =     28138 sec (       7 hrs 48 mins)
+ estimated clock time to complete  =     28131 sec (       7 hrs 48 mins)
+
+ added mass          =   2.8468E-04
+ percentage increase =   2.2936E+04
+
+ termination time                  = 1.223E-01
+    5000 t 1.3497E-03 dt 2.70E-07 flush i/o buffers            09/08/26 01:26:55
+    7408 t 1.9999E-03 dt 2.70E-07 write d3plot file            09/08/26 01:29:16
+   10000 t 2.6997E-03 dt 2.70E-07 flush i/o buffers            09/08/26 01:32:20
+   14815 t 3.9998E-03 dt 2.70E-07 write d3plot file            09/08/26 01:37:58
+   15000 t 4.0497E-03 dt 2.70E-07 flush i/o buffers            09/08/26 01:38:07
+   20000 t 5.3997E-03 dt 2.70E-07 flush i/o buffers            09/08/26 01:43:08
+   22223 t 5.9999E-03 dt 2.70E-07 write d3plot file            09/08/26 01:45:10
+   25000 t 6.7497E-03 dt 2.70E-07 flush i/o buffers            09/08/26 01:47:54
+   29630 t 7.9998E-03 dt 2.70E-07 write d3plot file            09/08/26 01:52:51
+   30000 t 8.0997E-03 dt 2.70E-07 flush i/o buffers            09/08/26 01:53:17
+   35000 t 9.4497E-03 dt 2.70E-07 flush i/o buffers            09/08/26 01:59:00
+   37038 t 1.0000E-02 dt 2.70E-07 write d3plot file            09/08/26 02:01:07
+   40000 t 1.0800E-02 dt 2.70E-07 flush i/o buffers            09/08/26 02:03:47
+   44445 t 1.2000E-02 dt 2.70E-07 write d3plot file            09/08/26 02:08:05
+   45000 t 1.2150E-02 dt 2.70E-07 flush i/o buffers            09/08/26 02:08:34
+   50000 t 1.3500E-02 dt 2.70E-07 flush i/o buffers            09/08/26 02:13:00
+   51852 t 1.4000E-02 dt 2.70E-07 write d3plot file            09/08/26 02:15:07
+   55000 t 1.4850E-02 dt 2.70E-07 flush i/o buffers            09/08/26 02:18:26
+   59260 t 1.6000E-02 dt 2.70E-07 write d3plot file            09/08/26 02:22:11
+   60000 t 1.6200E-02 dt 2.70E-07 flush i/o buffers            09/08/26 02:22:49
+   65000 t 1.7550E-02 dt 2.70E-07 flush i/o buffers            09/08/26 02:27:37
+   66667 t 1.8000E-02 dt 2.70E-07 write d3plot file            09/08/26 02:29:04
+   70000 t 1.8900E-02 dt 2.70E-07 flush i/o buffers            09/08/26 02:32:02
+   74075 t 2.0000E-02 dt 2.70E-07 write d3plot file            09/08/26 02:36:46
+   75000 t 2.0250E-02 dt 2.70E-07 flush i/o buffers            09/08/26 02:37:35
+   80000 t 2.1600E-02 dt 2.70E-07 flush i/o buffers            09/08/26 02:41:54
+   81482 t 2.2000E-02 dt 2.70E-07 write d3plot file            09/08/26 02:43:10
+   85000 t 2.2950E-02 dt 2.70E-07 flush i/o buffers            09/08/26 02:46:23
+   88889 t 2.4000E-02 dt 2.70E-07 write d3plot file            09/08/26 02:50:08
+   90000 t 2.4300E-02 dt 2.70E-07 flush i/o buffers            09/08/26 02:51:23
+   95000 t 2.5650E-02 dt 2.70E-07 flush i/o buffers            09/08/26 02:56:37
+   96297 t 2.6000E-02 dt 2.70E-07 write d3plot file            09/08/26 02:57:48
+  100000 t 2.7000E-02 dt 2.70E-07 flush i/o buffers            09/08/26 03:00:57
+  103704 t 2.8000E-02 dt 2.70E-07 write d3plot file            09/08/26 03:04:06
+  105000 t 2.8350E-02 dt 2.70E-07 flush i/o buffers            09/08/26 03:05:14
+  110000 t 2.9700E-02 dt 2.70E-07 flush i/o buffers            09/08/26 03:10:12
+  111112 t 3.0000E-02 dt 2.70E-07 write d3plot file            09/08/26 03:11:22
+  115000 t 3.1050E-02 dt 2.70E-07 flush i/o buffers            09/08/26 03:14:41
+  118519 t 3.2000E-02 dt 2.70E-07 write d3plot file            09/08/26 03:17:57
+  120000 t 3.2400E-02 dt 2.70E-07 flush i/o buffers            09/08/26 03:19:13
+  125000 t 3.3750E-02 dt 2.70E-07 flush i/o buffers            09/08/26 03:23:32
+  125926 t 3.4000E-02 dt 2.70E-07 write d3plot file            09/08/26 03:24:20
+  130000 t 3.5100E-02 dt 2.70E-07 flush i/o buffers            09/08/26 03:28:26
+  133334 t 3.6000E-02 dt 2.70E-07 write d3plot file            09/08/26 03:31:39
+  135000 t 3.6450E-02 dt 2.70E-07 flush i/o buffers            09/08/26 03:33:05
+  140000 t 3.7800E-02 dt 2.70E-07 flush i/o buffers            09/08/26 03:37:38
+  140741 t 3.8000E-02 dt 2.70E-07 write d3plot file            09/08/26 03:38:16
+  145000 t 3.9150E-02 dt 2.70E-07 flush i/o buffers            09/08/26 03:41:55
+  148149 t 4.0000E-02 dt 2.70E-07 write d3plot file            09/08/26 03:44:39
+  150000 t 4.0500E-02 dt 2.70E-07 flush i/o buffers            09/08/26 03:46:39
+  155000 t 4.1850E-02 dt 2.70E-07 flush i/o buffers            09/08/26 03:51:27
+  155556 t 4.2000E-02 dt 2.70E-07 write d3plot file            09/08/26 03:51:55
+  160000 t 4.3200E-02 dt 2.70E-07 flush i/o buffers            09/08/26 03:55:48
+  162963 t 4.4000E-02 dt 2.70E-07 write d3plot file            09/08/26 03:58:34
+  165000 t 4.4550E-02 dt 2.70E-07 flush i/o buffers            09/08/26 04:00:22
+  170000 t 4.5900E-02 dt 2.70E-07 flush i/o buffers            09/08/26 04:05:18
+  170371 t 4.6000E-02 dt 2.70E-07 write d3plot file            09/08/26 04:05:45
+  175000 t 4.7250E-02 dt 2.70E-07 flush i/o buffers            09/08/26 04:10:13
+  177778 t 4.8000E-02 dt 2.70E-07 write d3plot file            09/08/26 04:12:40
+  180000 t 4.8600E-02 dt 2.70E-07 flush i/o buffers            09/08/26 04:14:36
+  185000 t 4.9950E-02 dt 2.70E-07 flush i/o buffers            09/08/26 04:19:14
+  185186 t 5.0000E-02 dt 2.70E-07 write d3plot file            09/08/26 04:19:24
+  190000 t 5.1300E-02 dt 2.70E-07 flush i/o buffers            09/08/26 04:24:06
+  192593 t 5.2000E-02 dt 2.70E-07 write d3plot file            09/08/26 04:27:00
+  195000 t 5.2650E-02 dt 2.70E-07 flush i/o buffers            09/08/26 04:29:04
+  200000 t 5.4000E-02 dt 2.70E-07 flush i/o buffers            09/08/26 04:33:24
+  200001 t 5.4000E-02 dt 2.70E-07 write d3plot file            09/08/26 04:33:24
+  205000 t 5.5350E-02 dt 2.70E-07 flush i/o buffers            09/08/26 04:38:10
+  207408 t 5.6000E-02 dt 2.70E-07 write d3plot file            09/08/26 04:40:37
+  210000 t 5.6700E-02 dt 2.70E-07 flush i/o buffers            09/08/26 04:43:32
+  214815 t 5.8000E-02 dt 2.70E-07 write d3plot file            09/08/26 04:48:17
+  215000 t 5.8050E-02 dt 2.70E-07 flush i/o buffers            09/08/26 04:48:28
+  220000 t 5.9400E-02 dt 2.70E-07 flush i/o buffers            09/08/26 04:52:48
+  222223 t 6.0000E-02 dt 2.70E-07 write d3plot file            09/08/26 04:54:45
+  225000 t 6.0750E-02 dt 2.70E-07 flush i/o buffers            09/08/26 04:58:03
+  229630 t 6.2000E-02 dt 2.70E-07 write d3plot file            09/08/26 05:02:51
+  230000 t 6.2100E-02 dt 2.70E-07 flush i/o buffers            09/08/26 05:03:12
+  235000 t 6.3450E-02 dt 2.70E-07 flush i/o buffers            09/08/26 05:07:52
+  237038 t 6.4000E-02 dt 2.70E-07 write d3plot file            09/08/26 05:09:37
+  240000 t 6.4800E-02 dt 2.70E-07 flush i/o buffers            09/08/26 05:12:26
+  244445 t 6.6000E-02 dt 2.70E-07 write d3plot file            09/08/26 05:16:44
+  245000 t 6.6150E-02 dt 2.70E-07 flush i/o buffers            09/08/26 05:17:27
+  250000 t 6.7500E-02 dt 2.70E-07 flush i/o buffers            09/08/26 05:22:39
+  251852 t 6.8000E-02 dt 2.70E-07 write d3plot file            09/08/26 05:24:24
+  255000 t 6.8850E-02 dt 2.70E-07 flush i/o buffers            09/08/26 05:27:40
+  259260 t 7.0000E-02 dt 2.70E-07 write d3plot file            09/08/26 05:31:23
+  260000 t 7.0200E-02 dt 2.70E-07 flush i/o buffers            09/08/26 05:32:04
+  265000 t 7.1550E-02 dt 2.70E-07 flush i/o buffers            09/08/26 05:36:55
+  266667 t 7.2000E-02 dt 2.70E-07 write d3plot file            09/08/26 05:38:49
+  270000 t 7.2900E-02 dt 2.70E-07 flush i/o buffers            09/08/26 05:41:43
+  274075 t 7.4000E-02 dt 2.70E-07 write d3plot file            09/08/26 05:45:14
+  275000 t 7.4250E-02 dt 2.70E-07 flush i/o buffers            09/08/26 05:46:07
+  280000 t 7.5600E-02 dt 2.70E-07 flush i/o buffers            09/08/26 05:51:30
+  281482 t 7.6000E-02 dt 2.70E-07 write d3plot file            09/08/26 05:52:46
+  285000 t 7.6950E-02 dt 2.70E-07 flush i/o buffers            09/08/26 05:56:33
+  288889 t 7.8000E-02 dt 2.70E-07 write d3plot file            09/08/26 06:00:44
+  290000 t 7.8300E-02 dt 2.70E-07 flush i/o buffers            09/08/26 06:01:43
+  295000 t 7.9650E-02 dt 2.70E-07 flush i/o buffers            09/08/26 06:06:32
+  296297 t 8.0000E-02 dt 2.70E-07 write d3plot file            09/08/26 06:07:46
+  300000 t 8.1000E-02 dt 2.70E-07 flush i/o buffers            09/08/26 06:11:06
+  303704 t 8.2000E-02 dt 2.70E-07 write d3plot file            09/08/26 06:14:22
+  305000 t 8.2350E-02 dt 2.70E-07 flush i/o buffers            09/08/26 06:15:46
+  310000 t 8.3700E-02 dt 2.70E-07 flush i/o buffers            09/08/26 06:21:15
+  311112 t 8.4000E-02 dt 2.70E-07 write d3plot file            09/08/26 06:22:20
+  315000 t 8.5050E-02 dt 2.70E-07 flush i/o buffers            09/08/26 06:25:48
+  318519 t 8.6000E-02 dt 2.70E-07 write d3plot file            09/08/26 06:29:05
+  320000 t 8.6400E-02 dt 2.70E-07 flush i/o buffers            09/08/26 06:30:23
+  325000 t 8.7750E-02 dt 2.70E-07 flush i/o buffers            09/08/26 06:34:53
+  325926 t 8.8000E-02 dt 2.70E-07 write d3plot file            09/08/26 06:35:57
+  330000 t 8.9100E-02 dt 2.70E-07 flush i/o buffers            09/08/26 06:40:37
+  333334 t 9.0000E-02 dt 2.70E-07 write d3plot file            09/08/26 06:43:53
+  335000 t 9.0450E-02 dt 2.70E-07 flush i/o buffers            09/08/26 06:45:29
+  340000 t 9.1800E-02 dt 2.70E-07 flush i/o buffers            09/08/26 06:50:33
+  340741 t 9.2000E-02 dt 2.70E-07 write d3plot file            09/08/26 06:51:16
+  345000 t 9.3150E-02 dt 2.70E-07 flush i/o buffers            09/08/26 06:55:00
+  348149 t 9.4000E-02 dt 2.70E-07 write d3plot file            09/08/26 06:58:22
+  350000 t 9.4500E-02 dt 2.70E-07 flush i/o buffers            09/08/26 07:00:26
+  355000 t 9.5850E-02 dt 2.70E-07 flush i/o buffers            09/08/26 07:05:12
+  355556 t 9.6000E-02 dt 2.70E-07 write d3plot file            09/08/26 07:05:42
+  360000 t 9.7200E-02 dt 2.70E-07 flush i/o buffers            09/08/26 07:09:52
+  362963 t 9.8000E-02 dt 2.70E-07 write d3plot file            09/08/26 07:12:41
+  365000 t 9.8550E-02 dt 2.70E-07 flush i/o buffers            09/08/26 07:14:30
+  370000 t 9.9900E-02 dt 2.70E-07 flush i/o buffers            09/08/26 07:20:15
+  370371 t 1.0000E-01 dt 2.70E-07 write d3plot file            09/08/26 07:20:44
+  375000 t 1.0125E-01 dt 2.70E-07 flush i/o buffers            09/08/26 07:24:45
+  377778 t 1.0200E-01 dt 2.70E-07 write d3plot file            09/08/26 07:26:22
+  380000 t 1.0260E-01 dt 2.70E-07 flush i/o buffers            09/08/26 07:27:39
+  385000 t 1.0395E-01 dt 2.70E-07 flush i/o buffers            09/08/26 07:30:35
+  385186 t 1.0400E-01 dt 2.70E-07 write d3plot file            09/08/26 07:30:42
+  390000 t 1.0530E-01 dt 2.70E-07 flush i/o buffers            09/08/26 07:33:34
+  392593 t 1.0600E-01 dt 2.70E-07 write d3plot file            09/08/26 07:35:06
+  395000 t 1.0665E-01 dt 2.70E-07 flush i/o buffers            09/08/26 07:36:32
+  400000 t 1.0800E-01 dt 2.70E-07 flush i/o buffers            09/08/26 07:39:30
+  400001 t 1.0800E-01 dt 2.70E-07 write d3plot file            09/08/26 07:39:30
+  405000 t 1.0935E-01 dt 2.70E-07 flush i/o buffers            09/08/26 07:42:28
+  407408 t 1.1000E-01 dt 2.70E-07 write d3plot file            09/08/26 07:43:55
+  410000 t 1.1070E-01 dt 2.70E-07 flush i/o buffers            09/08/26 07:45:30
+  414815 t 1.1200E-01 dt 2.70E-07 write d3plot file            09/08/26 07:48:24
+  415000 t 1.1205E-01 dt 2.70E-07 flush i/o buffers            09/08/26 07:48:31
+  420000 t 1.1340E-01 dt 2.70E-07 flush i/o buffers            09/08/26 07:51:32
+  422223 t 1.1400E-01 dt 2.70E-07 write d3plot file            09/08/26 07:52:51
+  425000 t 1.1475E-01 dt 2.70E-07 flush i/o buffers            09/08/26 07:54:31
+  429630 t 1.1600E-01 dt 2.70E-07 write d3plot file            09/08/26 07:57:18
+  430000 t 1.1610E-01 dt 2.70E-07 flush i/o buffers            09/08/26 07:57:31
+  435000 t 1.1745E-01 dt 2.70E-07 flush i/o buffers            09/08/26 08:00:31
+  437038 t 1.1800E-01 dt 2.70E-07 write d3plot file            09/08/26 08:01:44
+  440000 t 1.1880E-01 dt 2.70E-07 flush i/o buffers            09/08/26 08:03:30
+  444445 t 1.2000E-01 dt 2.70E-07 write d3plot file            09/08/26 08:06:10
+  445000 t 1.2015E-01 dt 2.70E-07 flush i/o buffers            09/08/26 08:06:30
+  450000 t 1.2150E-01 dt 2.70E-07 flush i/o buffers            09/08/26 08:09:15
+  451852 t 1.2200E-01 dt 2.70E-07 write d3plot file            09/08/26 08:10:15
+ 
+ *** termination time reached ***
+  453086 t 1.2233E-01 dt 2.70E-07 write d3dump01 file          09/08/26 08:10:54
+  453086 t 1.2233E-01 dt 2.70E-07 write d3plot file            09/08/26 08:10:54
+
+ N o r m a l    t e r m i n a t i o n                          09/08/26 08:10:55
+
+ Memory required to complete solution   :    2138K
+ Additional dynamically allocated memory:      17M
+                                   Total:      19M
+
+ T i m i n g   i n f o r m a t i o n
+                        CPU(seconds)   %CPU  Clock(seconds) %Clock
+  ----------------------------------------------------------------
+  Keyword Processing ... 1.0000E+00    0.00     4.6700E-01    0.00
+    KW Reading ......... 1.0000E+00    0.00     2.5500E-01    0.00
+  Initialization ....... 5.0000E+00    0.02     5.9300E+00    0.02
+    Init Proc Phase 1 .. 0.0000E+00    0.00     3.5100E-01    0.00
+  Element processing ... 1.5007E+04   61.26     1.4766E+04   60.28
+    Solids ............. 1.4056E+04   57.37     1.3860E+04   56.58
+    Shells ............. 5.3000E+01    0.22     4.7317E+01    0.19
+    E Other ............ 8.9500E+02    3.65     8.5440E+02    3.49
+  Binary databases ..... 3.0000E+00    0.01     2.8660E+00    0.01
+  ASCII database ....... 2.0000E+00    0.01     3.8180E+00    0.02
+  Contact algorithm .... 6.9260E+03   28.27     7.1709E+03   29.27
+    Interf. ID         1 2.4200E+02    0.99     2.4744E+02    1.01
+    Interf. ID         2 2.3500E+02    0.96     2.9627E+02    1.21
+    Interf. ID         3 5.4890E+03   22.40     5.6232E+03   22.96
+    Interf. ID         4 2.5000E+02    1.02     2.3516E+02    0.96
+    Interf. ID         5 6.9700E+02    2.85     7.5646E+02    3.09
+  Rigid Bodies ......... 8.0000E+01    0.33     6.2447E+01    0.25
+    Mass Scaling ....... 1.0000E+00    0.00     1.1340E+00    0.00
+    Force gather ....... 2.5000E+01    0.10     3.5514E+01    0.14
+    Kinematic Update ... 1.1000E+01    0.04     1.1240E+01    0.05
+    Update nodes ....... 3.5000E+01    0.14     1.1967E+01    0.05
+  Time step size ....... 2.0000E+00    0.01     4.7430E+00    0.02
+  Bnd prescribed opt ... 2.0000E+00    0.01     1.2900E+00    0.01
+  Group force file ..... 3.0000E+00    0.01     2.0140E+00    0.01
+  Others ............... 8.0000E+00    0.03     7.1060E+00    0.03
+  Misc. 1 .............. 4.5300E+02    1.85     4.2142E+02    1.72
+    Scale Masses ....... 1.5100E+02    0.62     1.4436E+02    0.59
+    Force Constraints .. 2.0000E+00    0.01     9.6700E-01    0.00
+    Force to Accel ..... 2.1700E+02    0.89     2.1038E+02    0.86
+  Misc. 2 .............. 8.2300E+02    3.36     8.0299E+02    3.28
+    Geometry Update .... 8.1400E+02    3.32     7.9760E+02    3.26
+  Misc. 3 .............. 8.0000E+00    0.03     5.6720E+00    0.02
+  Misc. 4 .............. 1.1760E+03    4.80     1.2370E+03    5.05
+    Timestep Init ...... 1.1660E+03    4.76     1.2172E+03    4.97
+    Apply Loads ........ 8.0000E+00    0.03     1.7670E+01    0.07
+  ----------------------------------------------------------------
+  T o t a l s            2.4499E+04  100.00     2.4495E+04  100.00
+
+ Problem time       =    1.2233E-01
+ Problem cycle      =    453086
+ Total CPU time     =     24499 seconds (   6 hours 48 minutes 19 seconds)
+ CPU time per zone cycle  =        785.421 nanoseconds
+ Clock time per zone cycle=        785.280 nanoseconds
+
+ Number of CPU's    4
+ NLQ used/max     192/  192
+ Start time   09/08/2026 01:23:02  
+ End time     09/08/2026 08:10:55  
+ Elapsed time   24473 seconds for  453086 cycles using  4 SMP threads
+             (      6 hours 47 minutes 53 seconds)
+
+ N o r m a l    t e r m i n a t i o n                          09/08/26 08:10:55
+
