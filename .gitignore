@@ -1,24 +1,29 @@
-# LS-DYNA binary databases and restart files
+# LS-DYNA binary output and restart files - too large for a repository
 d3plot*
-d3dump*
 d3hsp*
+d3dump*
 d3full*
-d3kil*
 runrsf*
 adptmp
+binout*
 kill_by_pid
 bg_switch
 status.out
-mes[0-9]*
-core.*
+mes0*
+load_profile*
 
-# Large ASCII histories (commit only what the README cites)
-ncforc
-elout
-nodout
-disbout
+# LS-PrePost
+*.cfile
+*.lsppsetting
+lspost.*
 
-# Post-processing scratch
+# Python
 __pycache__/
 *.pyc
+.venv/
+
+# Editor and OS
+.vscode/
+.idea/
 .DS_Store
+Thumbs.db

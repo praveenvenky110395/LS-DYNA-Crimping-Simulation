@@ -1,0 +1,36 @@
+quantity,value,unit
+peak punch force,6778.2,N
+"peak punch force, time",0.1186,s
+punch stroke at peak force,6.871,mm
+total punch stroke,6.88,mm
+anvil reaction at that instant,6815.9,N
+punch vs anvil difference,0.56,%
+punch force at termination,5736.4,N
+"internal energy, final",2159.52,mJ
+"external work, final",2900.63,mJ
+"sliding interface energy, final",547.00,mJ
+"hourglass energy, final",173.06,mJ
+"kinetic energy, final",0.466,mJ
+"energy ratio, final",0.992902,-
+"energy balance error, final",0.71,%
+forming window starts (IE = 10 % of final),0.0610,s
+"hourglass / internal, maximum in that window",12.95,%
+"hourglass / internal, at maximum, time",0.0865,s
+"hourglass / internal, final",8.01,%
+"kinetic energy, maximum over whole run",0.987,mJ
+"kinetic energy, at maximum, time",0.1120,s
+"kinetic / internal, at that instant",0.066,%
+"kinetic / internal, maximum in forming window",0.165,%
+"kinetic / internal, at maximum, time",0.0735,s
+"kinetic / internal, final",0.022,%
+"sliding / internal, final",25.3,%
+"hourglass, ferrule",126.52,mJ
+"hourglass / internal, ferrule",8.80,%
+"hourglass, 19 strands",46.55,mJ
+"hourglass / internal, 19 strands",6.45,%
+"internal energy, ferrule share",66.6,%
+"friction energy, final (sleout)",670.72,mJ
+physical model mass,1.2412e-06,t
+"added mass, final",3.8251e-04,t
+"added mass, as a multiple of physical mass",308,x
+time step,2.700e-07,s
